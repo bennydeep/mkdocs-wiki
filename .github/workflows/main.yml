@@ -34,8 +34,8 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
-          apt add --no-cache --update ca-certificates
-          apt add --update --no-cache python3 python3-dev build-base && ln -sf python3 /usr/bin/python
+          apt add --update ca-certificates
+          apt add --update python3 python3-dev build-base && ln -sf python3 /usr/bin/python
           apt install nodejs
           sudo apt install npm
           npm install firebase-tools -g
