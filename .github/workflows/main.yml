@@ -34,13 +34,13 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
-          - apk add --no-cache --update ca-certificates
-          - apk add --update --no-cache python3 python3-dev build-base && ln -sf python3 /usr/bin/python
-          - npm install firebase-tools -g
-          - pip3 install --no-cache --upgrade pip setuptools
-          - pip3 install mkdocs
-          - pip install mkdocs-material
-          - mkdocs build
-          - firebase deploy --token $FIREBASE_TOKEN --only hosting
-          - echo done
+          apk add --no-cache --update ca-certificates
+          apk add --update --no-cache python3 python3-dev build-base && ln -sf python3 /usr/bin/python
+          npm install firebase-tools -g
+          pip3 install --no-cache --upgrade pip setuptools
+          pip3 install mkdocs
+          pip install mkdocs-material
+          mkdocs build
+          firebase deploy --token $FIREBASE_TOKEN --only hosting
+          echo done
 
