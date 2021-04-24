@@ -1,0 +1,24 @@
+default:
+  image: node:12.16.1-alpine
+stages:
+  - deploy
+
+  
+firebase_deploy:
+  stage: deploy
+  before_script:
+    - apk add --no-cache --update ca-certificates
+    - apk add --update --no-cache python3 python3-dev build-base && ln -sf python3 /usr/bin/python
+    - npm install firebase-tools -g
+    - pip3 install --no-cache --upgrade pip setuptools
+    - pip3 install mkdocs
+    - pip install mkdocs-material
+  script:
+    - mkdocs build
+    - echo ${FIREBASE_SA_KEY} > secret.json
+    - export GOOGLE_APPLICATION_CREDENTIALS="./secret.json"
+    - firebase deploy --project syscops-onboarding
+    - echo done
+  only:
+    refs:
+      - master
