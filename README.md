@@ -15,7 +15,7 @@ pip install mkdocs-material
 ugye masterre meg van csinálva a ci-cd és ott automatikusan lebuildeli és ki is deployolja a weboldalt  
 a firebase cli-t be kell magadnak configolni, saját accra, amit kapsz tokent berakni stbstb
 ```bash
-mkdocs build
+python -m mkdocs build
 firebase deploy --token $FIREBASE_TOKEN --only hosting 
 #firebase deploy --project syscops-onboarding
 ```
