@@ -1,15 +1,11 @@
 site_name: WorkInProgress
-page.title: false
-hide:
-    - pageTitle
 theme:
   name: 'material'
   custom_dir: 'theme'
+  logo : 'image2vector.svg'
   palette:
     primary: 'deep blue'
     accent: 'light blue'
-  favicon: images/favicon-32x32.png
-site_favicon: images/favicon-32x32.png
 
 
 plugins: []
@@ -17,5 +13,4 @@ extra_css:
   - stylesheets/dark_theme.css
   - stylesheets/codehilite.css
 extra:
-  logo: images/sysCopsWithText.svg
   article_nav_top: false
