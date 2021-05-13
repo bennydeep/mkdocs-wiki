@@ -6,7 +6,10 @@ theme:
   palette:
     primary: 'deep blue'
     accent: 'light blue'
-
+nav:
+    - 'Irományok':
+        - 'Hogyan fogyjunk le...': 'irományok/fastingforweightloss.md'
+        - 'MSc Stuff': 'irományok/mscstuff.md'
 
 plugins: []
 extra_css:
@@ -14,3 +17,5 @@ extra_css:
   - stylesheets/codehilite.css
 extra:
   article_nav_top: false
+markdown_extensions:
+  - attr_list
