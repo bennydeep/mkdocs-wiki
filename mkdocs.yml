@@ -8,8 +8,8 @@ theme:
     accent: 'light blue'
 nav:
     - 'Irományok':
-        - 'Hogyan fogyjunk le...': 'irományok/fastingforweightloss.md'
-        - 'MSc Stuff': 'irományok/mscstuff.md'
+        - 'Hogyan fogyjunk le...': 'iromanyok/fastingforweightloss.md'
+        - 'MSc Stuff': 'iromanyok/mscstuff.md'
 
 plugins: []
 extra_css:
