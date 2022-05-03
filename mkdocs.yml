@@ -10,6 +10,7 @@ nav:
     - 'Irományok':
         - 'Hogyan fogyjunk le...': 'iromanyok/fastingforweightloss.md'
         - 'MSc Stuff': 'iromanyok/mscstuff.md'
+        - 'Adatbányászat': 'iromanyok/adatbanya.md'
 
 plugins: []
 extra_css:
