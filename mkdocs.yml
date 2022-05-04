@@ -12,7 +12,12 @@ nav:
         - 'MSc Stuff': 'iromanyok/mscstuff.md'
         - 'Adatbányászat': 'iromanyok/adatbanya.md'
 
-plugins: []
+plugins:
+  - search:
+      lang: 
+        - hu
+        - en
+
 extra_css:
   - stylesheets/dark_theme.css
   - stylesheets/codehilite.css
