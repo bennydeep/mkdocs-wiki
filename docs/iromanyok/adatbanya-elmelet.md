@@ -1,5 +1,7 @@
 # Adatbányászat
 
+ ^^Test^^
+
 ## 1. Az adatbányászat definíciói, alapfogalmai, példák. Az adatbányászat eredete. Alapfeladatok: felügyelt és nem-felügyelt adatbányászat. Alkalmazási területek. Kihívások. Adatfeltárás: leíró statisztikák és vizualizáció.
 
 **Adatbányászat** alatt hatékony módszerek használatát értjük adatok
@@ -70,7 +72,7 @@ amelyeket egy keresővel kaptunk (pl. Amazonas esőerdő, Amazon kiadó)
 
 **Skála** (adat méret és jellemző dimenzió): sok adat, dimenzióprobléma
 
-**[Adatbányászati modellek]{.ul}**
+**Adatbányászati modellek**
 
 \-**magyarázzák** az adatokat (pl. egy egyszerű függvénykapcsolat)
 
@@ -80,7 +82,7 @@ amelyeket egy keresővel kaptunk (pl. Amazonas esőerdő, Amazon kiadó)
 
 -kinyerik a kiemelkedő **jellemzőit** az adatoknak
 
-**[Adatbányászat eredete]{.ul}**
+**Adatbányászat eredete**
 
 Ötleteket, módszereket merít a **gépitanulás/MI**, az
 **alakfelismerés**, a **statisztika** és az **adatbázisrendszerek**
@@ -116,7 +118,7 @@ amely **jellemzi az adatot**.
 
 -Eltérés/Rendellenesség keresés (Felügyelt)
 
-**[Osztályozás]{.ul}**
+**Osztályozás**
 
 Adott **rekordok egy halmaza (tanító állomány**), melyben minden rekord
 **attribútumok értékeinek egy halmazából** áll, az attribútumok egyike
@@ -144,7 +146,7 @@ megcélzásával akik valószínű vásárolni is fognak
 **Égboltfelmérés katalogizálása**: égi objektumok osztályainak (csillag
 vagy galaxis) előrejelzése,
 
-**[Csoportosítás]{.ul}**
+**Csoportosítás**
 
 **Adott rekordok** (pontok) egy halmaza, melyeket **attribútumok egy
 halmazával** írunk le, továbbá adott közöttük egy **hasonlósági
@@ -163,7 +165,7 @@ használunk
 **Dokumentumok csoportosítása**: kulcsszavak alapján (pl. gyakori
 kifejezések azonosítása)
 
-**[Társítási szabályok]{.ul} (Asszociációs szabályok)**
+**Társítási szabályok (Asszociációs szabályok)**
 
 Adott rekordok egy halmaza, amely **tételek** (termékek) egy összességét
 tartalmazza. Keressünk olyan **összefüggéseket, következtetéseket,**
@@ -181,7 +183,7 @@ az áruházakban
 **Alkatrész gazdálkodás**: szerviz vállalat megfelelő alkatrészeket
 tárolja és megfelelő mennyiségben
 
-**[Szekvenciális mintázatok]{.ul}**
+**Szekvenciális mintázatok**
 
 Adott *objektumok* egy halmaza úgy, hogy minden **objektumhoz** tartozik
 ***eseményeknek egy sorozata*.** Keressünk olyan **szabályokat,**
@@ -200,7 +202,7 @@ hívjuk)
 **Tranzakciók sorozata automatizált vásárlásnál:** vesz futócipőt és
 nadrágot futódzseki
 
-**[Regresszió]{.ul}**
+**Regresszió**
 
 **Jelezzük előre** egy adott **folytonos változó értékét** más
 **változók értékeit felhasználva**, lineáris vagy nemlineáris
@@ -212,7 +214,7 @@ neurális hálók területén.
 Új termék keresletének előrejelzése; Időjárás előrejelzése (szél nap
 párahány fok lesz?); Részvényárfolyamok alakulása.
 
-**[Eltérés/Rendellenesség keresés]{.ul}**
+**Eltérés/Rendellenesség keresés**
 
 A **normális** viselkedéstől szignifikáns **eltérések keresése.**
 
@@ -222,7 +224,7 @@ Hitelkártya csalások keresése
 
 Hálózati behatolás érzékelése
 
-**[Kihívások az adatbányászatban]{.ul}**
+**Kihívások az adatbányászatban**
 
 -Skálázhatóság
 
@@ -248,10 +250,10 @@ megértésében.
 **Motiváció**i: segít a helyes módszer kiválasztásában az
 előfeldolgozásban és az elemzésnél
 
-[**Módszerei**:]{.ul} Leíró statisztikák, Megjelenítés, grafikus
+**Módszerei**: Leíró statisztikák, Megjelenítés, grafikus
 eszközök, OLAP: közvetlen analitikus feldolgozás.
 
-**[Leíró statisztikák]{.ul}**
+**Leíró statisztikák**
 
 Olyan **mutatószámok**, melyek az adatok tulajdonságait **összegzik**,
 tömörítik. Ezek a tulajdonságok lehetnek **gyakoriságok**, **helyzet**
@@ -265,7 +267,7 @@ számolható.
 adatállományban**. (pl. 5-ös érték hányszor van; (ált. **diszkrét
 (kategorikus**) attribútumoknál használjuk)
 
-**[Helyzetmutatók]{.ul}**
+**Helyzetmutatók**
 
 **Módusz:** a **leggyakoribb** attribútum érték (ált. diszkrét
 attribútumoknál)
@@ -280,7 +282,7 @@ attribútumoknál)
 a mediánnal vagy a nyírott átlaggal (min és max elhagyásával számolt
 átlag) kivédhetjük
 
-**[Szóródás mutatók]{.ul}**
+**Szóródás mutatók**
 
 **Terjedelem**: a maximum és minimum eltérése
 
@@ -288,7 +290,7 @@ a mediánnal vagy a nyírott átlaggal (min és max elhagyásával számolt
 mérőszáma. Érzékeny a **kiugró értékekre**, ezért helyette: átlagos
 abszolút eltérés, medián abszolút eltérés, interkvartilis terjedelem.
 
-**[Alakmutatók]{.ul}**
+**Alakmutatók**
 
 **Normális eloszlás**: teljesen jellemzi a várható értéket és a
 szórást.(nevezetes eloszlás)
@@ -297,7 +299,7 @@ szórást.(nevezetes eloszlás)
 koordinátarendszerben pl. szavak eloszlása, bejövő és kimenő linkek
 web-lapokon fájlok mérete, jövedelem eloszlása
 
-**[Megjelenítés, grafikus eszközök \-- Vizualizáció]{.ul}**
+**Megjelenítés, grafikus eszközök \-- Vizualizáció**
 
 Megjelenítés az adatoknak **vizuális vagy táblázatos** formában való
 átalakítása a célból, hogy az adatok **jellemzői** és a közöttük lévő
@@ -338,9 +340,9 @@ vagy háromra redukáljuk.
 -ha túl sok a pont leolvashatatlan a kapcsolat és a kiugró értékekkel is
 vigyázni kell
 
-**[Megjelenítési módszerek]{.ul}**
+**Megjelenítési módszerek**
 
-**[Hisztogram]{.ul}**: Egy változó értékeinek **eloszlását** mutatja.
+**Hisztogram**: Egy változó értékeinek **eloszlását** mutatja.
 Osszuk az értékeket diszjunkt intervallumokba és ábrázoljuk a
 **gyakoriságokat** egy oszlopgrafikonon. A oszlopok magassága az
 intervallumba eső objektumok száma. A hisztogram alakja függ a
@@ -349,7 +351,7 @@ intervallumba eső objektumok száma. A hisztogram alakja függ a
 **Kétdimenziós hisztogram**: Két attribútum értékeinek együttes
 eloszlását mutatja.
 
-**[Dobozábra]{.ul}**: Adatok **eloszlásának** szemléltetése a
+**Dobozábra**: Adatok **eloszlásának** szemléltetése a
 **percentilisek** használatával, attribútumok **összehasonlítására**
 használható.
 
@@ -358,7 +360,7 @@ síkban (térben). 2 dimenzió, néha 3D Plusz dimenziók: méret, alak, szín
 markereket. Sokszor hasznos **pontdiagramok egy mátrixát** elkészíteni,
 amely **több attribútum pár kapcsolatát** összegzi kompakt módon.
 
-**[Kontúrábra]{.ul}**: Hasznos amikor egy **folytonos attribútumot**
+**Kontúrábra**: Hasznos amikor egy **folytonos attribútumot**
 mérünk egy **térbeli rácson.** A síkot tartományokra bontjuk a hasonló
 értékek alapján. A **kontúr vonalak**, amelyek az **egyenlő értékeket**
 kötik össze, alkotják ezeknek a tartományoknak a határait. A
@@ -372,7 +374,7 @@ amikor az objektumok egy **osztályozó változó szerint vannak rendezve**.
 egy attribútum domináljon. A **hasonlóság** és **távolságmátrix** ábrája
 szintén hasznos az objektumok közötti kapcsolatok megjelenítésére.
 
-**[Párhuzamos tengelyek]{.ul}**: **Magas dimenziós** adatok attribútum
+**Párhuzamos tengelyek**: **Magas dimenziós** adatok attribútum
 értékeinek megjelenítésére szolgál. Merőleges **koordinátatengelyek**
 helyett használjunk **párhuzamosakat.** Minden objektum attribútum
 értékeit a megfelelő koordinátatengelyen egy pontként ábrázolva a
@@ -381,19 +383,19 @@ reprezentál**. Gyakran a vonalak teljesen vagy egyes attribútumok mentén
 **csoportosulnak** az objektumok különböző csoportjaira utalva. Ennek
 felimerésére előbb rendezzük az attribútumokat.
 
-**[Csillag ábra]{.ul}**: A párhuzamos koordinátákhoz hasonló azzal az
+**Csillag ábra**: A párhuzamos koordinátákhoz hasonló azzal az
 eltéréssel, hogy a koordináták egy **centrumból sugarasan indulnak**.
 Egy objektum értékeit összekötő vonalak egy poligont alkotnak.
 
 **Chernoff arcok**: A módszer Herman Chernoff-tól származik. Az
 attribútumokhoz az **arc egy-egy jellemzőjét** kapcsoljuk. Minden egyes
 **attribútum érték** a megfelelő **arc-jellemző** megjelenését határozza
-meg. Mindegyik **[objektum egy külön arc lesz.]{.ul}** Az emberek
+meg. Mindegyik **objektum egy külön arc lesz.** Az emberek
 arcfelismerési képességére támaszkodik.
 
 ## 2. Adatbányászati folyamat. Adattípusok, mérési skálák. Adatállomány típusok. Adatminőségi problémák. Előfeldolgozás: aggregálás, mintavétel, dimenziócsökkentés, jellemzőszelekció és transzformáció. OLAP eszközök.
 
-**[Adatelemzési folyamat]{.ul}**
+**Adatelemzési folyamat**
 
 Adat előfeldolgozása Adatbányászat Eredmények utófeldolgozása
 
@@ -415,7 +417,7 @@ szükséges az adatok megértéshez
 Az **elő-és utófeldolgozás** gyakran maga is egy **adatbányászati
 feladat.**
 
-**[Adatbányászati folyamat]{.ul} (5 lépcsős folyamat)**
+**Adatbányászati folyamat (5 lépcsős folyamat)**
 
 \-**Mintavétel**: az adatok előkészítése az adattárházból
 
@@ -435,7 +437,7 @@ jellemző)
 **Objektum**: Attribútumok értékeinek egy összessége. (rekord, pont,
 eset, mintaelem, egyed, entitás)
 
-**[Attribútumok típusai; tulajdonságai (Adattípusok)]{.ul}**
+**Attribútumok típusai; tulajdonságai (Adattípusok)**
 
 \-**Névleges** (nominális) pl. ID, szemszín, irányítószám; **egyezőség**
 
@@ -462,7 +464,7 @@ rendelkezik.
 
 -Szorzás, osztás: \* /
 
-**[Diszkrét attribútumok]{.ul}**
+**Diszkrét attribútumok**
 
 --**Véges** vagy megszámlálható végtelen sok értéke lehet. Pl:
 irányítószám, darabszám, szavak száma dokumentumokban.
@@ -472,7 +474,7 @@ irányítószám, darabszám, szavak száma dokumentumokban.
 --Megjegyzés: **a bináris attribútumok** a diszkrét attribútumok egy
 speciális esete, csak 2 érték: 0 v. 1
 
-**[Folytonos attribútumok]{.ul}**
+**Folytonos attribútumok**
 
 --Az attribútum értékek **valós számok**. Pl: hőmérséklet, magasság,
 súly.
@@ -483,7 +485,7 @@ súly.
 --A folytonos attribútumokat általában lebegőpontos változókkal
 reprezentáljuk.
 
-**[Állományok típusai]{.ul}**
+**Állományok típusai**
 
 **Rekord**: Adatmátrix (adatbázisok), Dokumentum mátrix
 (szövegbányászat), Tranzakciós adatok
@@ -506,7 +508,7 @@ Génszekvenciák adatai
 Olyan adatok, amelyek rekordok egy halmazából állnak, ahol mindegyik
 rekord attribútum értékek egy adott halmazából áll.
 
-**[Adatmátrix]{.ul}**
+**Adatmátrix**
 
 Ha az objektumokat leíró adatok **numerikus attribútumok** egy adott
 halmazából állnak, akkor gondolhatunk rájuk úgy, mint **pontokra a
@@ -533,7 +535,7 @@ egy halmazát** tartalmazza.
 áll, amelyeket a vásárló vesz egy vásárlás során, míg a tételek a
 vásárolt árucikkek.
 
-**[Gráf adatok]{.ul}**
+**Gráf adatok**
 
 Pl: általános gráf, HTML linkek
 
@@ -541,11 +543,11 @@ Pl: általános gráf, HTML linkek
 
 Pl: Benzin molekul: C~6~H~6~ (ábrája)
 
-**[Rendezett adatok]{.ul}**
+**Rendezett adatok**
 
 Tranzakciók sorozatai, génszekvenciák, tér és időbeli adatok
 
-**[Adatminőségi problémák]{.ul}**
+**Adatminőségi problémák**
 
 Milyen adatminőségi problémák léphetnek fel? Hogyan ismerjük fel ezeket
 az adatainkon? Hogyan kezeljük?
@@ -553,18 +555,18 @@ az adatainkon? Hogyan kezeljük?
 Pl: **zaj** (hiba) és **kiugró** adatok, **hiányzó** adatok,
 **duplikált** adatok
 
-**[Zajos adatok]{.ul}**
+**Zajos adatok**
 
 Zaj alatt az **eredeti** (igazi) **érték módosulását** értjük. Pl: az
 emberi hang torzulása, ha rossz telefonon beszélünk, szemcsésedés a
 képernyőn.
 
-**[Kiugró adatok]{.ul}**
+**Kiugró adatok**
 
 A kiugró adatok olyan objektumok adatai, amelynek jellemzői **jelentősen
 eltérnek** az adatállományban lévő más objektumok adataitól.
 
-**[Hiányzó adatok]{.ul}**
+**Hiányzó adatok**
 
 **Okai**: Az információt nem gyűjtöttük össze (pl. az emberek
 visszautasították a koruk és súlyuk megadását).
@@ -583,7 +585,7 @@ gyerekeknek nincs jövedelme).
 --**Helyettesítés** az összes lehetséges értékkel (a valószínűségek
 alapján).
 
-**[Duplikált adatok]{.ul}**
+**Duplikált adatok**
 
 Az adatállomány tartalmazhat olyan rekordokat, amelyek **más rekordok**
 pontos ill. kevésbé pontos **ismétlődései.** Főként akkor merül fel, ha
@@ -595,7 +597,7 @@ Pl: Ugyanaz az ember többféle e-mail vagy lakcímmel.
 
 Az a folyamat, mely során az **ismétlődő adatokat kezeljük.**
 
-**[Adatok előfeldolgozása]{.ul}**
+**Adatok előfeldolgozása**
 
 \-**Aggregálás** (Attribútumok összevonása)
 
@@ -609,7 +611,7 @@ Az a folyamat, mely során az **ismétlődő adatokat kezeljük.**
 
 -Attribútum **transzformáció**
 
-**[Aggregálás]{.ul}**
+**Aggregálás**
 
 Kettő vagy több attribútum (objektum) **kombinálása** egy attribútummá
 (objektummá).
@@ -624,7 +626,7 @@ fogjuk össze.
 --Az adatok stabilitásának növelése: Az aggregált adatok ingadozása
 csökken (simítás).
 
-**[Mintavétel]{.ul}**
+**Mintavétel**
 
 Az **adatszelekció** fő módszere. Egyaránt használatos az adatok
 előzetes vizsgálatánál és a végső adatelemzésnél.
@@ -642,7 +644,7 @@ adatállománnyal, amennyiben a minta **reprezentatív.**
 --A minta akkor reprezentatív, ha a számunkra **fontos tulajdonságok**
 szempontjából ugyanúgy viselkedik, mint a teljes adatállomány.
 
-**[Mintavételi módok]{.ul}**
+**Mintavételi módok**
 
 **Egyszerű véletlen minta:** Ugyanakkora valószínűséggel választunk ki
 minden objektumot.
@@ -671,7 +673,7 @@ A rekordok (pontok) közötti **távolság és sűrűség**, melyek alapvetőek
 csoportosításnál és kiugró adatok meghatározásánál, **fontossága
 csökken.**
 
-**[Dimenzió csökkentés]{.ul}**
+**Dimenzió csökkentés**
 
 Cél:
 
@@ -694,17 +696,17 @@ Módszerek:
 --Egyéb felügyelt és nemlineáris módszerek, pl. többdimenziós skálázás
 (MDS)
 
-**[Főkomponens analízis]{.ul} (PCA)**
+**Főkomponens analízis (PCA)**
 
 Célja olyan **vetítés** (projekció) meghatározása, amely leginkább
 megőrzi az adatokban lévő **variációt**, **sokszínűséget.**
 
--Határozzuk meg a **kovariancia mátrix [sajátvektorait.]{.ul}**
+-Határozzuk meg a **kovariancia mátrix sajátvektorait.**
 
 -Az **új teret** (koordinátatengelyeit) ezek a **sajátvektorok**
 határozzák meg.
 
-**[ISOMAP]{.ul}**
+**ISOMAP**
 
 -Állítsuk elő a **szomszédsági gráfot**.
 
@@ -714,7 +716,7 @@ hosszát**--geodetikus távolság.
 -Erre a távolság mátrixra alkalmazzuk az MDSt (többdimenziós
 skálázást---dim. csökkentő eljárás).
 
-**[Jellemzők részhalmazainak szelekciója]{.ul}**
+**Jellemzők részhalmazainak szelekciója**
 
 A **dimenzió csökkentés** egy másik útja.
 
@@ -768,7 +770,7 @@ Entrópia alapú megközelítés
 
 **(Nem-Felügyelt diszkretizálás)**
 
-**[Attribútumok transzformációja]{.ul}**
+**Attribútumok transzformációja**
 
 Olyan függvény, amely adott attribútum értékeinek halmazát **képezi le**
 helyettesítő értékek egy **új halmazára** úgy, hogy minden **régi
@@ -778,7 +780,7 @@ helyettesítő értékek egy **új halmazára** úgy, hogy minden **régi
 
 --Standardizálás és normalizálás
 
-**[OLAP]{.ul}**
+**OLAP**
 
 A **közvetlen analítikus feldolgozás** (OLAP: On-Line Analytical
 Processing)
@@ -794,7 +796,7 @@ ezzel az adattárolási móddal **könnyebbé** válik.
 A táblázatos adatok többdimenziós tömbökké való átalakításának **két fő
 lépése.**
 
---[Először]{.ul} határozzuk meg mely attribútumok lesznek a
+--Először határozzuk meg mely attribútumok lesznek a
 **dimenziók** és mely attribútum lesz a **cél attribútum**, amelynek
 értékei a többdimenziós tömb elemei lesznek.
 
@@ -806,12 +808,12 @@ változó, pl. egy tétel költsége.
 > -Előfordulhat, hogy egyáltalán nincs cél attribútum csak olyan
 > objektumok darabszáma, melyeknek ugyanazok az attribútum értékei.
 
---[Másodszor]{.ul} számoljuk ki a többdimenziós tömb minden elemének
+--Másodszor számoljuk ki a többdimenziós tömb minden elemének
 értékét **a célattribútum értékeinek összegzésével**, vagy az összes
 olyan objektum **összeszámolásával**, amely attribútum **értékei**
 **megfelelnek az adott elemnek.**
 
-**[OLAP műveletek]{.ul}**
+**OLAP műveletek**
 
 **Adatkocka**
 
@@ -834,13 +836,13 @@ boltokban különböző időpontokban eladott mennyisége. Ezek az adatok egy
 3 (3 alatt 2), az egydimenziós összegzések, száma 3 és 1 db
 nulla-dimenziós összegzés van (ez a teljes összeg).
 
-**[Szeletelés]{.ul}**
+**Szeletelés**
 
 A szeletelés **cellák** egy olyan **csoportjának a kiválasztását**
 jelenti a teljes többdimenziós tömbből, amelyet értékeknek **egy vagy
 több dimenzió menti rögzítésével** kapunk. (attribútum szerint)
 
-**[Kockázás]{.ul}**
+**Kockázás**
 
 A kockázás **cellák** egy olyan **részhalmazát** jelenti, amelyet
 **attribútum értékek** egy **tartományának megadásával** kapunk. Ez
@@ -848,7 +850,7 @@ ekvivalens azzal, hogy a teljes tömbből egy résztömböt választunk ki.
 
 (attribútum érték szerint)
 
-**[Göngyölítés és lefúrás]{.ul}**
+**Göngyölítés és lefúrás**
 
 Az attribútum értékek gyakran **hierarchikusan** szerveződnek.
 
@@ -882,7 +884,7 @@ azonosító mentén.
 
 ## 3. Osztályozási alapfogalmak. Döntési fa alapú osztályozók. Fa építési algoritmusok: Hunt, CART, CHAID, C4.5. Osztályozók kiértékelése: tévesztési mátrix, metrikák, ROC görbe.
 
-**[Osztályozás]{.ul}**
+**Osztályozás**
 
 Adott **rekordok** egy halmaza (***tanító adatállomány***). Minden
 rekord attribútumok értékeinek egy halmazából áll, az **attribútumok
@@ -904,11 +906,11 @@ halmazára.
 
 Az **f** célfüggvényt osztályozási modellnek nevezzük.
 
-**[Leíró modellezés]{.ul}:** **Magyarázó eszköz** arra, hogy
+**Leíró modellezés:** **Magyarázó eszköz** arra, hogy
 **különbséget** tegyünk objektumok különböző **osztályai között** (pl.
 megértsük, hogy miért csalják el egyes emberek az adójukat).
 
-**[Prediktív modellezés]{.ul}: Jelezzük előre** korábban nem
+**Prediktív modellezés: Jelezzük előre** korábban nem
 látottrekordok osztályát.
 
 **Tanuló adatállomány**: olyan rekordokból áll, amelyeknél **ismerjük az
@@ -926,7 +928,7 @@ pl. A daganatos sejtek előrejelzése: jó vagy rossz indulatú; Hitelkártya
 tranzakciók osztályozása: legális vagy csalás; Újsághírek
 kategórizálása: üzlet, időjárás, szórakozás, sport stb.
 
-**[Osztályozási módszerek]{.ul}**
+**Osztályozási módszerek**
 
 **-Döntési fák**
 
@@ -942,7 +944,7 @@ kategórizálása: üzlet, időjárás, szórakozás, sport stb.
 
 -Vektorgépek: SVM
 
-**[Döntési fa alapú következtetés]{.ul}**
+**Döntési fa alapú következtetés**
 
 --Hunt algoritmusa (az egyik legkorábbi)
 
@@ -955,7 +957,7 @@ fák)
 
 --SLIQ, SPRINT
 
-**[Hunt]{.ul}**
+**Hunt**
 
 Legyen ***D~t~*** **a tanító rekordok halmaza** a *t* csúcspontban.
 
@@ -971,7 +973,7 @@ attribútum szerinti teszt alapján **osszuk fel a rekordok** halmazát
 kisebb **részhalmazokra**. Majd **rekurzívan** alkalmazzuk az eljárást
 minden kapott részhalmazra.
 
-**[Mohó stratégia]{.ul}**
+**Mohó stratégia**
 
 Vágjuk **részekre a rekordok halmazát** egy **attribútum szerinti**
 teszt alapján egy alkalmas **kritériumot optimalizálva.**
@@ -986,7 +988,7 @@ teszt alapján egy alkalmas **kritériumot optimalizálva.**
 
 --Mikor álljunk le a vágással?
 
-**Hogyan határozzuk meg [a tesztfeltételt?]{.ul}**
+**Hogyan határozzuk meg a tesztfeltételt?**
 
 Függ az attribútumok **típusátó**l:
 
@@ -1002,7 +1004,7 @@ Függ attól, hogy **hány részre** vágunk:
 
 --több részre, ágra vágás.
 
-**Vágás [névleges]{.ul} attribútum alapján**
+**Vágás névleges attribútum alapján**
 
 **Több részre vágás**: Annyi részt használjunk **amennyi különböző
 érték** van.
@@ -1010,7 +1012,7 @@ Függ attól, hogy **hány részre** vágunk:
 **Bináris vágás**: Osszuk az értékeket **két részre**. Az optimális
 partíciót találjuk meg.
 
-**Vágás [sorrendi]{.ul} attribútum alapján**
+**Vágás sorrendi attribútum alapján**
 
 **Több részre vágás**: Annyi részt használjunk **amennyi különböző
 érték** van.
@@ -1018,11 +1020,11 @@ partíciót találjuk meg.
 **Bináris vágás**: Osszuk az értékeket **két részre**. Az optimális
 partíciót találjuk meg.
 
-**Vágás [folytonos]{.ul} attribútum alapján**
+**Vágás folytonos attribútum alapján**
 
 Többféle módon kezelhető:
 
-**-[Diszkretizáció]{.ul}**, hogy **sorrendi** kategorikus attribútumot
+**-Diszkretizáció**, hogy **sorrendi** kategorikus attribútumot
 állítsunk elő
 
 -statikus -- egyszer, **kezdéskor** diszkretizálunk,
@@ -1037,7 +1039,7 @@ Többféle módon kezelhető:
 
 -Számításigényes lehet.
 
-**Mi lesz a [legjobb vágás?]{.ul}**
+**Mi lesz a legjobb vágás?**
 
 Mohó megközelítés:
 
@@ -1053,7 +1055,7 @@ preferáljuk.
 **\
 **
 
-**[Szennyezettség mérése]{.ul}**
+**Szennyezettség mérése**
 
 Gini index
 
@@ -1061,7 +1063,7 @@ Entrópia -- (Rendezettlenségi mérték)
 
 Téves osztályozási hiba
 
-**[1. Gini index]{.ul}**
+**1. Gini index**
 
 Gini index egy t csúcspontban
 
@@ -1076,9 +1078,9 @@ információ).
 -- A minimum ***0.0*** amikor minden rekord **ugyanahhoz az osztályhoz**
 tartozik (leghasznosabb információ).
 
-**[Vágás]{.ul} a Gini index alapján**
+**Vágás a Gini index alapján**
 
-A **[CART,]{.ul}** SLIQ, SPRINT algoritmusok használják.
+A **CART,** SLIQ, SPRINT algoritmusok használják.
 
 Ha **a *t* csúcspontot** (szülő) ***k* részre** (gyerekek) osztjuk fel,
 akkor a **vágás jóságát** az alábbi képlettel számoljuk:
@@ -1091,15 +1093,15 @@ ahol *n*~i~= rekordok száma az *i*--edik gyereknél,
 
 *G(i)* = az *i*-edik gyerek Gini indexe.
 
-**Gini index [bináris]{.ul} attribútumokra**: Két ágra vágás, Az ágak
+**Gini index bináris attribútumokra**: Két ágra vágás, Az ágak
 **súlyozásának** hatása: minél nagyobb és tisztább ágakat keresünk.
 
-**Gini index [diszkrét]{.ul} attribútumokra**: Minden **különböző vágó
+**Gini index diszkrét attribútumokra**: Minden **különböző vágó
 értékre** határozzuk meg az egyes osztályok előfordulási
 **gyakoriságát** az egyes ágakra. Használjuk a gyakorisági mátrixot a
 döntésnél.
 
-**Gini index [folytonos]{.ul} attribútumokra:** Használjunk egy
+**Gini index folytonos attribútumokra:** Használjunk egy
 **értéken alapuló bináris döntéseket**.
 
 Számos lehetséges vágó érték: Lehetséges vágások száma = Különböző
@@ -1125,7 +1127,7 @@ meghatározására és számoljuk ki a **Gini indexet.**
 
 -- Válasszuk azt a vágó értéket, amelynek **legkisebb a Gini indexe.**
 
-**[2. Entrópia]{.ul} alapú vágási kritérium (C4.5 használja)**
+**2. Entrópia alapú vágási kritérium (C4.5 használja)**
 
 Entrópia (rendezetlenségi fok) a *t* csúcsban:
 
@@ -1176,7 +1178,7 @@ A *p* szülő csúcsot *k* ágra bontjuk: *n~i~* a rekordok száma az
 
 -- Az információ nyereség hátrányainak kiküszöbölésére tervezték.
 
-**[3. Téves osztályozási hiba alapú vágás]{.ul}**
+**3. Téves osztályozási hiba alapú vágás**
 
 Osztályozási hiba a t csúcsban:
 
@@ -1190,7 +1192,7 @@ osztályok között, ahol *n~c\ ~*az osztályok száma (legrosszabb eset).
 -Minimuma *0.0*, amikor minden rekord **egy osztályba** tartozik
 (legjobb eset).
 
-**[Megállási szabály döntési fáknál]{.ul}**
+**Megállási szabály döntési fáknál**
 
 **Ne osszunk** tovább egy csúcsot, ha minden rekord **ugyanahhoz** az
 osztályhoz tartozik.
@@ -1225,7 +1227,7 @@ Alkalmatlan nagy adatállományok kezelésére.
 
 --Memórián kívüli rendezést igényel (lassú).
 
-**[Az osztályozás gyakorlati szempontjai]{.ul}**
+**Az osztályozás gyakorlati szempontjai**
 
 Alul-és túlillesztés
 
@@ -1233,7 +1235,7 @@ Hiányzó értékek
 
 Az osztályozás költsége
 
-**[1. Túlillesztés]{.ul}**
+**1. Túlillesztés**
 
 A túlillesztés döntési fák esetén azt eredményezheti, hogy a fa
 **szükségtelenül nagy** (összetett) lesz.
@@ -1243,7 +1245,7 @@ rekordokra.
 
 A hiba becslésére új módszerek kellenek.
 
-**[Az általánosítási hiba becslése]{.ul}**
+**Az általánosítási hiba becslése**
 
 **Behelyettesítési hiba**: hiba **a tanító** állományon(∑e(t) )
 
@@ -1265,7 +1267,7 @@ hiba= 10/1000 = 1%
 
 Általánosítási hiba= (10 + 30 × 0.5)/1000 = 2.5%
 
---**Hiba csökkentés [tisztítással]{.ul}** (REP--reduced error pruning):
+--**Hiba csökkentés tisztítással** (REP--reduced error pruning):
 
 -használjunk egy ellenőrző adatállományt az általánosítási hiba
 becslésére.
@@ -1280,18 +1282,18 @@ adatokban lévő hiba miatt. Ezért figyelembe kell venni a modell
 
 **Túlillesztés kezelése**
 
-[Előtisztítás]{.ul}
+Előtisztítás
 
 -Állítsuk le az algoritmust mielőtt a fa teljes lesz
 
-[Utótisztítás]{.ul}
+Utótisztítás
 
 -Építsük fel a fát, metsszük alulról felfelé, ha javul azt
 általánosítási hiba, a metszett részt helyettesítjük egy levéllel.
 
 -MDL elvet is használhatjuk
 
-**[2. Hiányzó attribútum értékek kezelése]{.ul}**
+**2. Hiányzó attribútum értékek kezelése**
 
 --Hogyan számoljuk **a szennyezettségi** mutatókat?
 
@@ -1302,13 +1304,13 @@ csúcsok között?
 
 **További szempontok**
 
-Adat-[töredezettség]{.ul}
+Adat-töredezettség
 
 Keresési stratégiák
 
 Kifejezőképesség
 
-Fa [ismétlődés]{.ul}
+Fa ismétlődés
 
 **1. Adat-töredezettség**
 
@@ -1345,7 +1347,7 @@ reprezentáció. Az optimális teszt feltétel megtalálása számítás igénye
 
 **Ugyanaz a részfa** fordul elő **több ágban.**
 
-**[Modellek kiértékelése]{.ul}**
+**Modellek kiértékelése**
 
 **Metrikák** hatékonyság kiértékelésre
 
@@ -1372,7 +1374,7 @@ milyen gyorsan osztályoz vagy épül a modell, skálázható-e stb.
 |          | Osztály=Nem          | FP: hamis pozitív | TN: igaz negatív  |
 +----------+----------------------+-------------------+-------------------+
 
-**[Pontosság]{.ul} -** Leggyakrabban használt metrika
+**Pontosság -** Leggyakrabban használt metrika
 
 Pontosság=$\frac{TP + TN}{TP + TN + FP + FN}$
 
@@ -1393,7 +1395,7 @@ Pontosság=$\frac{TP + TN}{TP + TN + FP + FN}$
 *C(i\|j):* **a téves osztályozás költsége**, a *j* osztályba eső
 rekordot az *i* osztályba soroljuk
 
-**Módszerek [hatékonyság]{.ul} kiértékelésére**
+**Módszerek hatékonyság kiértékelésére**
 
 Egy modell hatékonysága a tanító algoritmus mellett más faktoroktól is
 függhet:
@@ -1427,9 +1429,9 @@ Hagyjunk ki egyet: *k=n*(diszkriminancia analízis).
 **Bootstrap**: Visszatevéses mintavétel
 
 **\
-Módszerek [modellek összehasonlítására]{.ul}**
+Módszerek modellek összehasonlítására**
 
-**[ROC]{.ul}** (Receiver Operating Characteristic)
+**ROC** (Receiver Operating Characteristic)
 
 Vevő oldali működési jellemző. Az 50-es években fejlesztették ki a
 jelfeldolgozás számára zajos jelek vizsgálatára.
@@ -1465,7 +1467,7 @@ valamilyen határérték)
 **Diagonális vonal (átló)**: Véletlen találgatás, A diagonális vonal
 alatt: Az előrejelzés a valódi osztály ellentéte
 
-**Hogyan [szerkesszünk]{.ul} ROC görbét**
+**Hogyan szerkesszünk ROC görbét**
 
 Alkalmazzunk egy olyan osztályozót, amely minden rekordra meghatározza a
 P(+\|A) poszterior valószínűséget.
@@ -1488,7 +1490,7 @@ modellek pontosságának összehasonítására.**
 
 ## 4. Osztályozási módszerek: szabály alapú osztályozók, naív Bayes módszer, k legközelebbi szomszéd.
 
-**[Osztályozási szabályok]{.ul} (Szabály alapú osztályozók)**
+**Osztályozási szabályok (Szabály alapú osztályozók)**
 
 **„Ha...akkor..."** szabályok összességével osztályozzuk a rekordokat.
 
@@ -1515,16 +1517,16 @@ Példák osztályozási szabályokra:
 Az ***r*** szabály **lefedi** az **x** esetet, ha az eset **attribútumai
 kielégítik a szabály feltételeit.**
 
-**[Lefedettség]{.ul}**
+**Lefedettség**
 
 Azon **rekordok aránya**, amelyek **kielégítik a szabály feltételét.**
 
-**[Pontosság]{.ul}**
+**Pontosság**
 
 Azon **rekordok aránya**, amelyek egyaránt **kielégítik a szabály
 feltételét** és **következményét.**
 
-**Osztályozási szabályok [jellemzése]{.ul}**
+**Osztályozási szabályok jellemzése**
 
 **Teljesen kizáró szabályok**
 
@@ -1545,12 +1547,12 @@ minden **lehetséges kombinációját** tartalmazza **a feltételekben.**
 A szabályok teljesen **kizáróak** és **kimerítőek**. A szabály halmaz
 pontosan annyi információt tartalmaz, mint a fa. (közvetett módszer)
 
-**Szabályok [egyszerűsítése]{.ul}**
+**Szabályok egyszerűsítése**
 
 Visszatérítés és házas helyett csak a házast nézem, mert így is ugyan
 oda jutok
 
-**Az egyszerűsítés [hatása]{.ul}**
+**Az egyszerűsítés hatása**
 
 A szabályok már **nem** lesznek **teljesen kizáróak.**
 
@@ -1586,7 +1588,7 @@ kerül.
 **\
 **
 
-**[Szabály rendező sémák]{.ul}**
+**Szabály rendező sémák**
 
 Szabály alapú rendezés
 
@@ -1596,22 +1598,22 @@ Osztály alapú rendezés
 
 --Az egy **osztályhoz tartozó** szabályok együtt fordulnak elő.
 
-**Osztályozási szabályok [építése]{.ul}**
+**Osztályozási szabályok építése**
 
-**[Közvetlen]{.ul} módszerek:**
+**Közvetlen módszerek:**
 
 -Szabály kinyerés **közvetlenül az adatokból.**
 
 -Példák: RIPPER, CN2, Holte 1R módszere.
 
-**[Közvetett]{.ul} módszerek:**
+**Közvetett módszerek:**
 
 -Szabály kinyerés **más osztályozási módszerekből** (pl. döntési fák,
 neurális hálók stb.).
 
 -Példa: C4.5 szabályok.
 
-**Közvetlen módszer: [Szekvenciális lefedés]{.ul}**
+**Közvetlen módszer: Szekvenciális lefedés**
 
 1.Induljunk ki az **üres szabályból.**
 
@@ -1635,7 +1637,7 @@ Leállási kritérium
 
 Szabály tisztítás
 
-**[Szabály építés]{.ul}**
+**Szabály építés**
 
 Két általános stratégia
 
@@ -1672,7 +1674,7 @@ maximalizáljuk:**
 >
 > n1: R1 által lefedett negatív esetek száma.
 
-**[Eset kizárás]{.ul}**
+**Eset kizárás**
 
 Miért van szükség eset kizárásra?
 
@@ -1686,13 +1688,13 @@ Miért töröljünk negatív eseteket?
 
 --Megelőzzük a szabály **pontosságának alulbecslését.**
 
-**Szabály [kiértékelés]{.ul}**
+**Szabály kiértékelés**
 
 Mérőszámok:
 
-**[Pontosság]{.ul}**=$\ \frac{n_{c}}{n}$
+**Pontosság**=$\ \frac{n_{c}}{n}$
 
-**[Laplace]{.ul}**=$\frac{n_{c} + 1}{n + k}$
+**Laplace**=$\frac{n_{c} + 1}{n + k}$
 
 **M-becslés**=$\frac{n_{c} + kp}{n + k}$
 
@@ -1704,12 +1706,12 @@ Mérőszámok:
 
 *p :* a pozitív eset apriori valószínűsége
 
-**[Leállási]{.ul} feltétel**
+**Leállási feltétel**
 
 Számoljuk ki a nyereséget. Ha a **nyereség nem szignifikáns**, akkor
 dobjuk el az új szabályt.
 
-**Szabály [tisztítás]{.ul}**
+**Szabály tisztítás**
 
 Hasonló döntési fák utótisztításához.
 
@@ -1722,7 +1724,7 @@ adatállományon.
 
 \-**Ha a hiba javul, akkor tisztítsunk a kifejezés elhagyásával.**
 
-**A [közvetlen módszer]{.ul} vázlata**
+**A közvetlen módszer vázlata**
 
 Építsünk egy **egyszerű szabályt.**
 
@@ -1734,7 +1736,7 @@ adatállományon.
 
 **Ismételjük** a fenti lépéseket.
 
-**Közvetlen módszer: [RIPPER]{.ul}**
+**Közvetlen módszer: RIPPER**
 
 **Bináris** feladat esetén válasszuk **pozitív osztálynak** az egyik és
 **negatív** osztálynak a másik osztályt.
@@ -1755,7 +1757,7 @@ kezeljük a maradékot negatív osztályként.
 --Ismételjük meg a **következő legkisebb** osztállyal, mint **pozitív
 osztály.**
 
-**[Szabály építés:]{.ul}**
+**Szabály építés:**
 
 --Induljunk ki **az üres szabályból.**
 
@@ -1777,7 +1779,7 @@ adatállományban.
 --Tisztítási módszer**: töröljük** a **feltételek** olyan véges
 sorozatát, amely **maximalizálja *v*-t.**
 
-**Szabály [halmaz]{.ul} építése:**
+**Szabály halmaz építése:**
 
 --Használjunk **szekvenciálisan lefedő algoritmust.**
 
@@ -1792,7 +1794,7 @@ ki az **új leíró hosszt.**
 > -Álljunk le az új szabály hozzáadásával, ha annak leíró hossza *d*
 > bittel nagyobb, mint az eddig kapott legkisebb leíró hossz.
 
-**[Optimalizáljuk]{.ul} a szabályhalmazt:**
+**Optimalizáljuk a szabályhalmazt:**
 
 --Az ***R*** szabályhalmaz minden *r* szabályára
 
@@ -1814,7 +1816,7 @@ esetekre.
 **\
 **
 
-**Közvetett módszerek: [C4.5szabályok]{.ul}**
+**Közvetett módszerek: C4.5szabályok**
 
 **Nyerjünk ki szabályokat** egy tisztítatlan (teljes) döntési fából.
 
@@ -1844,7 +1846,7 @@ A szabályok rendezése helyett **rendezzük szabályok részhalmazait**
 > -g egy olyan paraméter, amely figyelembe veszi a szabályhalmazban lévő
 > redundáns attribútumokat (alapérték= 0.5).
 
-**Osztályozási szabályok [előnyei]{.ul}**
+**Osztályozási szabályok előnyei**
 
 Legalább annyira **kifejezőek** mint a **döntési fák.**
 
@@ -1856,16 +1858,16 @@ Könnyen **generálhatóak.**
 
 Hatékonyságuk **összevethető** a döntési fákéval.
 
-**[Bayes osztályozó]{.ul}**
+**Bayes osztályozó**
 
 Egy **valószínűségszámítási módszer** **osztályozási problémák
 megoldására.**
 
-[Feltételes valószínűség:]{.ul}
+Feltételes valószínűség:
 
 P(C\|A) =$\ \frac{P(A,C)}{P(A)}$ P(A\|C) =$\ \frac{P(A,C)}{P(C)}$
 
-**[Bayes tétel:]{.ul}**
+**Bayes tétel:**
 
 P(C\|A) =$\ \frac{P(A|C)P(C)}{P(A)}$
 
@@ -1901,7 +1903,7 @@ maximalizálja P(A~1~, A~2~, ..., A~n~\|C) P(C)-t.
 
 Hogyan becsüljük P(A~1~, A~2~, ..., A~n~ \| C )-t?
 
-Tételezzünk fel **[függetlenséget]{.ul}** az **A~i~ attributumok
+Tételezzünk fel **függetlenséget** az **A~i~ attributumok
 között** ha az osztály adott:
 
 --P(A~1~, A~2~, ..., A~n~ \|C) = P(A~1~\| C~j~) P(A~2~\| C~j~)...
@@ -1913,10 +1915,10 @@ P(A~n~\| C~j~)
 --Egy új rekord a **C~j~ osztályba kerül** ha a P(C~j~) ∏P(A~i~\| C~j~)
 **maximális.**
 
-**[Naív Bayes]{.ul}**
+**Naív Bayes**
 
-**Feltételezi**, hogy az **összes attribútum között [feltételes
-függetlenség]{.ul} van.** (karhossz -- olvasási készség)
+**Feltételezi**, hogy az **összes attribútum között feltételes
+függetlenség van.** (karhossz -- olvasási készség)
 
 Robusztus izolált hibás pontokra.
 
@@ -1925,12 +1927,12 @@ Kezeli a **hiányzó értékeket** a valószínűségek becslésénél ezen eset
 
 Robusztus az **irreleváns attribútumokra.**
 
-A **[függetlenségi feltétel nem teljesül]{.ul}** egyes attribútumokra.
+A **függetlenségi feltétel nem teljesül** egyes attribútumokra.
 
 --Használjunk más módszereket, Bayes hálók (Bayesian Belief
 Networks,BBN).
 
-**[Eset alapú osztályozók]{.ul}**
+**Eset alapú osztályozók**
 
 Letároljuk a tanító rekordokat. A tanító rekordokat használjuk az új
 esetek osztályainak **előrejelzésére.**
@@ -1944,7 +1946,7 @@ csak akkor hajtja végre az osztályozást, ha az új rekord attributum
 Legközelebbi szomszéd: Használjuk a k ,,legközelebbi" pontot
 (legközelebbi szomszédok) az osztályozás végrehajtására.
 
-**[Legközelebbi szomszéd osztályozók]{.ul}**
+**Legközelebbi szomszéd osztályozók**
 
 **def.:** Az **x** rekord **k legközelebbi szomszédja** azok a rekordok,
 melyek **távolsága** x-től a k **legkisebb távolság.**
@@ -1956,7 +1958,7 @@ Három dolog szükséges
 
 --**Rekordok** egy halmaza
 
---A rekordok közötti **[távolság]{.ul}** számolására szolgáló metrika
+--A rekordok közötti **távolság** számolására szolgáló metrika
 
 --A ***k*** szám, a meghatározandó legközelebbi szomszédok száma
 
@@ -1971,7 +1973,7 @@ besorolására (pl. többségi szavazást véve).
 
 Számoljuk ki két pont **távolságát**:
 
-**[--Euklideszi távolság]{.ul}**: d(p,q)=
+**--Euklideszi távolság**: d(p,q)=
 $\sqrt{\sum_{i}^{}\left( p_{i} - q_{i} \right)^{2}}$
 
 > -baj vele: sok dimenziós adatok, dimenzió probléma; a természetes
@@ -1985,14 +1987,14 @@ A legközelebbi szomszédok alapján határozzuk meg az osztályt:
 
 -súly: w = 1/d^2^
 
-[A ***k* érték megválasztása**:]{.ul}
+A ***k* érték megválasztása**:
 
 --Ha *k* túl **kicsi**, akkor a módszer **érzékeny a hibás** rekordokra.
 
 --Ha *k* túl **nagy**, akkor a **szomszédság** más osztálybeli pontokat
 is tartalmazhat.
 
-**[Skálázási szempontok:]{.ul}**
+**Skálázási szempontok:**
 
 --Az attributumokat **átskálázhatjuk** így előzve meg azt, hogy egy
 **attributum dominálja** a távolságot.
@@ -2020,12 +2022,12 @@ pl. PEBLS, ahol k=1
 
 ## 5. Osztályozási módszerek: mesterséges neuron hálók, támaszvektor gépek (SVM), logisztikus regresszió, együttes osztályozók.
 
-**[Mesterséges neurális hálók]{.ul} (ANN)**
+**Mesterséges neurális hálók (ANN)**
 
 A **modell** egymással **összekötött** **csúcsok** és **súlyozott élek**
 együttese.
 
-Az **[output]{.ul}** csúcs **összegzi** az hozzátartozó **input
+Az **output** csúcs **összegzi** az hozzátartozó **input
 értékeket** az éleken lévő **súlyok szerint.**
 
 Vessük össze az **output** csúcsban kapott értéket egy *t* **küszöb
@@ -2050,7 +2052,7 @@ neuronokat tartalmazzák.)
 
 akt fv. pl. ReLu
 
-**[Algoritmus MNH tanítására]{.ul}**
+**Algoritmus MNH tanítására**
 
 Inicializáljuk a (w~0~, w~1~, ..., w~k~) **súlyokat.**
 
@@ -2069,7 +2071,7 @@ fenti célfüggvényt.
 
 Sok rejtett réteg mélytanulásnál van. (pl. képfeldolgozás)
 
-**[Támasz vektorgépek (SVM)]{.ul}**
+**Támasz vektorgépek (SVM)**
 
 Keressünk olyan **hipersíkot (döntési határ**), amely **elválasztja** az
 adatokat. egyenestlin. szeparálható
@@ -2083,7 +2085,7 @@ Ez kényszerfeltétel melletti optimalizációs feladat.
 
 -- Numerikus módszerek (pl. kvadratikus programozás).
 
-**[Nemlineáris]{.ul} támasz vektorgépek**
+**Nemlineáris támasz vektorgépek**
 
 (Ha a **döntési határ nem lineáris**. Bevezetünk **lötyögő változókat**
 és beépítjük a célfüggvénybe.)
@@ -2091,11 +2093,11 @@ Ez kényszerfeltétel melletti optimalizációs feladat.
 Transzformáljuk az adatokat egy **magasabb dimenziójú** térbe (kernel
 trükk). (hiper sík nagyobb dimbe)
 
-**Osztályozás [regresszió]{.ul} útján**
+**Osztályozás regresszió útján**
 
 Ahelyett, hogy egy rekord osztályát jeleznénk előre próbáljuk meg
-**előrejelezni az osztály [valószínűségét]{.ul},** amely már egy
-**[folytonos]{.ul} mennyiség**.
+**előrejelezni az osztály valószínűségét,** amely már egy
+**folytonos mennyiség**.
 
 Egy folytonos mennyiség előrejelzését **regressziós feladat**nak
 nevezzük
@@ -2103,7 +2105,7 @@ nevezzük
 **Általános megközelítés**: találjunk egy olyan **folytonos függvényt**,
 amely jól modellezi (illeszkedik) a folytonos pontfelhőre.
 
-**[Lineáris regresszió]{.ul}**
+**Lineáris regresszió**
 
 Egy adott adatállomány, i.e.,{ (𝑥~1~,𝑦~1~),...,(𝑥~𝑛~,𝑦~𝑛~)}, esetén
 találjunk egy olyan **lineáris függvényt**, amely adott 𝑥~𝑖~ vektor
@@ -2116,7 +2118,7 @@ $$\sum_{i}^{}\left( y_{i}^{'} - y_{i} \right)^{2}$$
 
 --A probléma megoldására számos módszer ismert.
 
-**[Logisztikus regresszió]{.ul}**
+**Logisztikus regresszió**
 
 Találjunk egy olyan **w vektort**, amely **maximalizálja** a
 **megfigyelt adatok valószínűségét.**
@@ -2135,7 +2137,7 @@ Viszonylag **nagy méretű** adatállományokon is működik.
 **Gyors** az **alkalmazásokon** mivel az osztályok becslése csak a
 súlyvektortól függ.
 
-**[Együttes módszerek]{.ul}**
+**Együttes módszerek**
 
 **Osztályozók egy halmazát** hozzuk létre a tanító állományon. Egy új
 rekord osztályát úgy jelezzük előre, hogy a **sok osztályozó** által
@@ -2154,7 +2156,7 @@ Tegyük fel, hogy adott 25 egyszerű osztályozónk.
 
 (Binomiális eloszlás: az egyes osztályozó jól döntött vagy nem)
 
-**[Folyamatábrája]{.ul}**
+**Folyamatábrája**
 
 Bemeneti adatok sok (különböző) adatállományt generálaz adatállományokra
 egyenként illesztjük a különböző modelleket osztályozókaz osztályozók
@@ -2164,7 +2166,7 @@ pl. --Bagging (bootstrap aggregating)
 
 --Boosting (gyorsítás)
 
-**[Bagging]{.ul}**
+**Bagging**
 
 **Visszatevéses mintavétel**. (Egy adatállományból előállítok több
 adatállományt, **ismétlődhetnek az elemek**, akár több adatállományba is
@@ -2174,7 +2176,7 @@ Minden bootstrap mintán építsünk fel egy osztályozót (pl. döntési fa).
 
 Minden egyes rekordot (1 --1/n)^n^ valószínűséggel választunk ki.
 
-**[Boosting (gyorsítás)]{.ul}**
+**Boosting (gyorsítás)**
 
 Egy olyan iteratív eljárás, amely a **tanító rekordok eloszlását**
 adaptívan **változtatva** a korábban **tévesen osztályozott rekordokra
@@ -2188,20 +2190,20 @@ befejeztével.
 A **rosszul osztályozott** rekordoknak **nő**ni fog a **súlya**. A
 **helyesen osztályozott** rekordoknak **csökkenni** fog a súlya.
 
-**[AdaBoost]{.ul}**
+**AdaBoost**
 
 A s**úlyok** mindig **visszaállnak 1/n-re** ha a közbenső **hiba 50%
 fölé** megy és a mintavételi **folyamat megismétlődik.**
 
 ## 6. Hasonlóság és távolság. Klaszterezés: definíciók, K-közép módszer és variánsai. A klaszterezés kiértékelése: hasonlósági mátrix, korreláció, SSE, árnyék együttható.
 
-**[Hasonlóság (s)]{.ul}**
+**Hasonlóság (s)**
 
 Két objektum (rekord) **hasonlóságát** méri. Minél **nagyobb** az értéke
 annál nagyobb a **hasonlóság.** Általában a \[0,1\] intervallumban veszi
 fel az értékeit.
 
-**[Távolság (d)]{.ul}**
+**Távolság (d)**
 
 Két objektum (rekord) **különbözőségét** méri. Minél **kisebb** annál
 nagyobb a hasonlóság. A **minimális** távolság általában **0**. A felső
@@ -2209,7 +2211,7 @@ korlát változó.
 
 A **szomszédság** fogalma egyaránt utalhat hasonlóságra és távolságra.
 
-**[Távolság]{.ul} (dissimilarity) egyszerű attribútumnál (s+d=1)**
+**Távolság (dissimilarity) egyszerű attribútumnál (s+d=1)**
 
 **Névleges**: d = $\left\{ \begin{matrix}
 0\ \ \ ha\ p = q \\
@@ -2221,7 +2223,7 @@ A **szomszédság** fogalma egyaránt utalhat hasonlóságra és távolságra.
 **Intervallum**: d = $|p - q|$ ( s = -d; s = $\frac{1}{1 + d}$; vagy s =
 1 - $\frac{d - min\_ d}{{max\_ d}{- \ min\_ d}}$ )
 
-**[Euklideszi távolság]{.ul}**
+**Euklideszi távolság**
 
 $$\text{dist}(p,q) = \sqrt{\sum_{k = 1}^{n}\left( p_{k} - \ q_{k} \right)^{2}}$$
 
@@ -2234,7 +2236,7 @@ Ha a skálák különbözőek, akkor előbb **standardizálni** kell.
 **\
 **
 
-**[Minkowski távolság]{.ul}**
+**Minkowski távolság**
 
 Az **euklideszi** távolság **általánosítása.**
 
@@ -2259,13 +2261,13 @@ maximuma.
 Ne tévesszük össze *r* és *n* szerepét, ezek a távolságok minden
 dimenzió, azaz *n* mellett értelmezhetőek.
 
-**[Mahalanobis távolság]{.ul}**
+**Mahalanobis távolság**
 
 $$\text{mahalanobis}(p,q) = (p - q)\sum_{}^{- 1}(p - q)^{T}$$
 
 ∑ az *X* input adatok kovariancia mátrixa.
 
-**[A távolság általános jellemzői]{.ul}**
+**A távolság általános jellemzői**
 
 A különböző távolság fogalmak, pl. euklideszi, néhány jól ismert
 jellemzővel bír.
@@ -2287,7 +2289,7 @@ Az olyan **távolságot,** amely eleget tesz a fenti tulajdonságoknak
 **\
 **
 
-**[A hasonlóság általános jellemzői]{.ul}**
+**A hasonlóság általános jellemzői**
 
 A hasonlóságoknak szintén van néhány jól ismert tulajdonsága.
 
@@ -2319,7 +2321,7 @@ M~11~= azon attribútumok száma, ahol p=1 és q=1.
 SMC = egyezők száma/ attribútumok száma = (M11+ M00) / (M01+ M10+ M11+
 M00)
 
-**[Jaccard együttható]{.ul}**
+**Jaccard együttható**
 
 J = az 11 egyezések száma/ a nem mindkettő 0 attribútumok száma = (M11)
 / (M01+ M10+ M11)
@@ -2334,7 +2336,7 @@ cos(d~1~,d~2~)=(d~1~ ● d~2~)/\|\|d~1~\|\| \|\|d~2~\|\|,
 ahol ● jelöli a skaláris szorzatot \|\|*d*\|\| pedig a *d* vektor
 hossza.
 
-**[Tanimoto]{.ul} együttható**
+**Tanimoto együttható**
 
 A Jaccard együttható általánosítása
 
@@ -2343,7 +2345,7 @@ A Jaccard együttható módosítása azért, hogy alkalmazható legyen
 
 --Bináris attribútumok esetén a Jaccard együtthatót kapjuk vissza
 
-**[Korreláció]{.ul}**
+**Korreláció**
 
 Az objektumok vagy attribútumok közötti **lineáris kapcsolat erősségét**
 méri.
@@ -2364,7 +2366,7 @@ ahol $\overline{p}\ $az átlag, *s(p)* pedig a szórás.
 Előfordul, hogy az attribútumok nagyon különböző típusúak viszont egy
 átfogó hasonlóságra van szükségünk.
 
-**Hasonlóságok összekapcsolása [súlyokkal]{.ul}**
+**Hasonlóságok összekapcsolása súlyokkal**
 
 Nem mindig akarjuk az összes attribútumot ugyanúgy kezelni.
 
@@ -2384,18 +2386,18 @@ Példák:
 
 --Gráf alapú sűrűség
 
-**[Cella alapú euklideszi sűrűség]{.ul}**
+**Cella alapú euklideszi sűrűség**
 
 Osszuk egyenlő térfogatú téglalap alakú cellákra a tartományt és
 definiáljuk a **sűrűséget** úgy, mint amely arányos a **cellákba eső
 pontok számával**.
 
-**[Középpont alapú]{.ul} euklideszi sűrűség**
+**Középpont alapú euklideszi sűrűség**
 
 A sűrűség egy pontban arányos a pont körüli **adott sugarú környezetbe**
 eső pontok számával.
 
-**[Mi a klaszterezés (csoportosítás)?]{.ul}**
+**Mi a klaszterezés (csoportosítás)?**
 
 Találjunk olyan **csoportokat** objektumok egy halmazában, hogy az egy
 csoportban lévő objektumok **egymáshoz hasonlóak,** míg a **más
@@ -2426,24 +2428,24 @@ objektumok (rekordok) között, azonban különböző területeken.
 
 Egy **klaszterosítás** klaszterek (csoportok) egy halmaza.
 
-**[Felosztó klaszterezés:]{.ul}**
+**Felosztó klaszterezés:**
 
 --Az objektumok felosztása **nem átfedő** részhalmazokra(klaszterekre)
 úgy, hogy minden objektum **pontosan egy** részhalmazban szerepelhet.
 
-**[Hierarchikus klaszterezés:]{.ul}**
+**Hierarchikus klaszterezés:**
 
 --**Egymásba ágyazott** klaszterek egy hierarchikus fába szervezett
 halmaza.
 
-**[Kizáró]{.ul} vagy [nem-kizáró]{.ul}**
+**Kizáró vagy nem-kizáró**
 
 --A **nem-kizáró** kleszterezésnél a pontok **több klaszterhez** is
 tartozhatnak.
 
 --Egy pont, a ,,határ" pont, több osztályt is képviselhet.
 
-**[Fuzzy]{.ul} vagy [nem-fuzzy]{.ul}**
+**Fuzzy vagy nem-fuzzy**
 
 --A fuzzy klaszterezésnél egy pont az **összes klaszterhez** tartozik 0
 és 1 közötti **súllyal.**
@@ -2452,44 +2454,44 @@ tartozhatnak.
 
 --A **valószínűségi klaszterezés** hasonló tulajdonsággal bír.
 
-**[Részleges]{.ul} vagy [teljes]{.ul}**
+**Részleges vagy teljes**
 
 --Bizonyos esetekben az adatok **egy részét** akarjuk klaszterezni.
 
-**[Heterogén]{.ul} vagy [homogén]{.ul}**
+**Heterogén vagy homogén**
 
 --**Nagyon különböző** méretű, alakú és sűrűségű klaszterek.
 
 **Klaszterek típusai**
 
-**[Jól elválasztott]{.ul} klaszterek**: Egy klaszter pontoknak olyan
+**Jól elválasztott klaszterek**: Egy klaszter pontoknak olyan
 halmaza, hogy a klaszter **bármely pontja közelebb van** (vagy
 hasonlóbb) a **klaszter összes további pontjához** mint bármelyik nem
 klaszterbeli pont.
 
-**[Középpont alapú]{.ul} klaszterek:** Egy klaszter objektumoknak egy
+**Középpont alapú klaszterek:** Egy klaszter objektumoknak egy
 olyan részhalmaza, hogy egy klaszterbeli objektum **közelebb van**
 (hasonlóbb)a klaszter **,,középpontjához"**, mint bármelyik más
 klaszterközépponthoz. Egy klaszter középpontja gyakran az ún.
 **centroid**, a klaszterbeli összes pont átlaga, vagy a **medoid**, a
 klaszter legreprezentatívabb pontja.
 
-**[Összefüggő]{.ul} klaszterek** (legközelebbi szomszéd): Egy klaszter
+**Összefüggő klaszterek** (legközelebbi szomszéd): Egy klaszter
 pontoknak olyan halmaza, hogy egy klaszterbeli pont közelebb van
 (hasonlóbb) a klaszter más pontjaihoz mint bármelyik nem klaszterbeli
 ponthoz.
 
-**[Sűrűség alapú]{.ul} klaszterek:** A **klaszter sűrűn elhelyezkedő
+**Sűrűség alapú klaszterek:** A **klaszter sűrűn elhelyezkedő
 pontok** halmaza, amelyet **alacsony sűrűségű tartományok választanak
 el** hasonlóan nagy sűrűségű klaszterektől. Akkor használjuk, ha a
 klaszterek szabálytalanok vagy egymást átfedőek, illetve **hiba** vagy
 **kiugró** értékek vannak.
 
-**[Tulajdonság]{.ul}** vagy **fogalom alapú klaszterek**: Keressünk
+**Tulajdonság** vagy **fogalom alapú klaszterek**: Keressünk
 olyan klasztereket, amelyek valamilyen **közös tulajdonságon**
 osztoznak, illetve egy speciális fogalmat jelenítenek meg.
 
-**Egy [célfüggvény]{.ul} által leírt klaszterek**: Keressük meg azokat a
+**Egy célfüggvény által leírt klaszterek**: Keressük meg azokat a
 klasztereket, amelyek egy **célfüggvényt minimalizálnak vagy
 maximalizálnak**. Számoljuk össze az összes klaszterosítást és
 értékeljük ki minden lehetséges klaszterosítás ,,jóságát" a célfüggvény
@@ -2517,7 +2519,7 @@ maximalizálni szeretnénk.
 **\
 **
 
-**[Klaszterezési algoritmusok]{.ul}**
+**Klaszterezési algoritmusok**
 
 **1. K-közép módszer** és változatai
 
@@ -2537,7 +2539,7 @@ Minden pontot ahhoz a klaszterhez rendelünk, amelynek a középpontjához a
 A **klaszterek száma**, K, **adott** kell, hogy legyen. Az algoritmus
 egyszerű.
 
-**[Algoritmus.]{.ul} Alap *K*-közép módszer**
+**Algoritmus. Alap *K*-közép módszer**
 
 1\. Válasszunk ki ***K* kezdeti középpontot.**
 
@@ -2565,7 +2567,7 @@ konvergencia legnagyobb része az első néhány iterációban megtörténik.
 Általában a leállási feltétel arra módosul, hogy ,,Viszonylag kevés pont
 vált klasztert"
 
-**[Komplexitás]{.ul}**: O( n \* K \* I \* d ), ahol n: pontok száma, K:
+**Komplexitás**: O( n \* K \* I \* d ), ahol n: pontok száma, K:
 klaszterek száma, I: iterációk száma,
 
 > d: attribútumok száma.
@@ -2582,7 +2584,7 @@ Az SSE jó két klaszterosítás vagy két klaszter **összehasonlítására**
 
 Szintén használható a **klaszterek számának becslésére.**
 
-**[K-közép módszer kiértékelése]{.ul}**
+**K-közép módszer kiértékelése**
 
 Az általános mérőszám: **hiba négyzetösszeg** (SSE -Sum of Squared
 Error)
@@ -2603,13 +2605,13 @@ reprezentánsa, általában m~i~ a klaszter középpontja (átlaga)
 jó klaszterezésnek kisebb K mellett lehet kisebb SSE-je mint egy
 rosszabb klaszterezésnek nagyobb K mellett.
 
-**[Előfeldolgozás]{.ul}**
+**Előfeldolgozás**
 
 Normalizáljuk (standardizáljuk) az adatokat.
 
 Távolítsuk el a kiugróakat.
 
-**[Utófeldolgozás]{.ul}**
+**Utófeldolgozás**
 
 Távolítsuk el a kis klasztereket, amelyekben **kiugró adatok** lehetnek.
 
@@ -2621,7 +2623,7 @@ egymáshoz és viszonylag **kicsi az SSE-jük**.
 
 Ezeket a lépéseket használhatjuk a klaszterezés során is.
 
-**[Felező K-közép módszer]{.ul}**
+**Felező K-közép módszer**
 
 Egy olyan ***K*-közép variáns**, amely **felosztó**, illetve
 **hierarchikus** klaszterezésre egyaránt alkalmazható.
@@ -2654,11 +2656,11 @@ nem tartalmaz.
 
 **Variációk**
 
-**[K-medoid:]{.ul}** A feladat definíciója hasonló a K-középhez kivéve,
+**K-medoid:** A feladat definíciója hasonló a K-középhez kivéve,
 hogy egy klaszter **középpontját** úgy definiáljuk, hogy a **klaszter
 egy pontja** legyen (pl.medián)(a K-középnél ez általában nem teljesül)
 
-**[K-center]{.ul}:** A feladat definíciója hasonló a K-középhez kivéve,
+**K-center:** A feladat definíciója hasonló a K-középhez kivéve,
 hogy a célfüggvény a **klaszterek maximális átmérőjének a
 minimalizálása** (egy klaszter átmérője: a klaszter bármely két pontja
 közötti maximális távolság).
@@ -2699,7 +2701,7 @@ is ki tudjuk terjeszteni.
 **Egymásba ágyazott** klaszterek egy **hierarchikus fába** szervezett
 halmazát állítja elő.
 
-Egy ún. **[dendrogram]{.ul}**mal jeleníthetjük meg.
+Egy ún. **dendrogram**mal jeleníthetjük meg.
 
 -- Ez egy **fa alakú diagram**, amely a rekordokat **összevonások** vagy
 **szétvágások sorozataivá** rendezi.
@@ -2709,13 +2711,13 @@ klaszterszámot.**
 
 Értelmes **osztályozásoknak** (taxonómiáknak) is megfelelhet.
 
-**[Két fő típusa:]{.ul}**
+**Két fő típusa:**
 
-**[-Összevonó]{.ul}**: Induljunk **minden pontot külön klaszterként**
+**-Összevonó**: Induljunk **minden pontot külön klaszterként**
 kezelve. Minden lépésnél **vonjuk össze** a két **legközelebbi**
 klasztert amíg csak egy (vagy k) klaszter nem marad.
 
-**[-Felosztó]{.ul}**: Induljunk egy minden **pontot tartalmazó
+**-Felosztó**: Induljunk egy minden **pontot tartalmazó
 klaszterből**. Minden lépésnél **vágjunk ketté** egy klasztert amíg
 minden klaszter csak egy pontot nem tartalmaz (vagy amíg k klasztert nem
 kapunk).
@@ -2724,9 +2726,9 @@ A hagyományos hierarchikus algoritmusok **hasonlósági vagy távolság
 mátrixot** használnak. **Egyszerre egy klasztert** vonjunk össze vagy
 vágjunk szét.
 
-**[Klaszter-hasonlóság]{.ul}**
+**Klaszter-hasonlóság**
 
-**MIN vagy [egyszerű kapcsolás]{.ul}**
+**MIN vagy egyszerű kapcsolás**
 
 Két klaszter **hasonlósága** a klaszterekbeli **két leghasonlóbb
 (legközelebbi) ponton** alapszik.
@@ -2738,7 +2740,7 @@ Két klaszter **hasonlósága** a klaszterekbeli **két leghasonlóbb
 
 **Korlátai:** Érzékeny a hibára és a kiugró adatokra
 
-**MAX vagy [teljes kapcsolás]{.ul}**
+**MAX vagy teljes kapcsolás**
 
 Két klaszter közötti **hasonlóság** a klaszterekbeli **két legkevésbé
 hasonló (legtávolabbi) ponttól függ.**
@@ -2750,7 +2752,7 @@ hasonló (legtávolabbi) ponttól függ.**
 **Korlátai:** Hajlamos a nagy klasztereket kettévágni. Torzít a gömbölyű
 klaszterek irányába.
 
-**[Csoport-átlag (Átlagos kapcsolás)]{.ul}**
+**Csoport-átlag (Átlagos kapcsolás)**
 
 Két klaszter közötti **közelség** a klaszterekbeli **pontok közötti
 mérőszámok átlaga.**
@@ -2825,17 +2827,17 @@ alapú térbeli klaszterezés hiba mellett**
 
 A DBSCAN egy sűrűség alapú algoritmus.
 
---**[Sűrűség]{.ul}** = egy rögzített sugáron (Eps) belüli pontok száma
+--**Sűrűség** = egy rögzített sugáron (Eps) belüli pontok száma
 
---Egy pont **[belső]{.ul} pont,** ha egy **előírtnál** (MinPts) **több
+--Egy pont **belső pont,** ha egy **előírtnál** (MinPts) **több
 pont** van Eps **sugarú környezetében.**
 
 -Ezek lesznek egy klaszter belsejének pontjai.
 
---A **[határ]{.ul} pontnak** **az Eps sugarú környezetben** **MinPts-nél
+--A **határ pontnak** **az Eps sugarú környezetben** **MinPts-nél
 kevesebb pontja** van, azonban **van belső** pont ebben a környezetben.
 
---A **[zajos]{.ul} pont** az összes olyan pont, amelyik **nem belső**
+--A **zajos pont** az összes olyan pont, amelyik **nem belső**
 illetve **határ pont.**
 
 **Előnyei**: **Ellenálló a zajjal** szemben. **Különböző méretű** és
@@ -2849,7 +2851,7 @@ illetve **határ pont.**
 
 ## 8. Vásárlói kosár adatok. Gyakori tételcsoport és támogatottság. Az Apriori elv és algoritmus. Jelöltgenerálás. Asszociációs szabályok. Megbízhatóság. Mintázat-kiértékelés: statisztikus mérőszámok, lift érték.
 
-**[Vásárlói kosár adatok]{.ul}**
+**Vásárlói kosár adatok**
 
 **Termékek** egy nagy halmaza, pl. egy szupermarket kínálata.
 
@@ -2867,7 +2869,7 @@ vagyunk kíváncsiak.
 A módszer a **gyakori eseményekre** és nem a ritkákra fókuszál ("hosszú
 farok").
 
-**[Tételcsoport]{.ul}**
+**Tételcsoport**
 
 --**Egy** vagy **több tétel összessége.**
 
@@ -2877,13 +2879,13 @@ farok").
 
 k számú tételt tartalmazó tételcsoport
 
-**[Támogatottsági érték (σ)]{.ul}**
+**Támogatottsági érték (σ)**
 
 --Egy **tételcsoport előfordulási gyakorisága**.
 
 --Pl. σ({Tej, Kenyér,Pelenka}) = 2
 
-**[Támogatottság]{.ul}**
+**Támogatottság**
 
 --Egy **tételcsoportot tartalmazó tranzakciók aránya.**
 
@@ -2918,7 +2920,7 @@ plágiumot jelenthetnek.
 
 --Vegyük észre, hogy a tételeknek nem kell benne lenniük a kosarakban.
 
-**Gyakori tételcsoportok [bányászata]{.ul}**
+**Gyakori tételcsoportok bányászata**
 
 **Input:** A tranzakciók **T halmaza** tételek egy I halmaza felett
 
@@ -2945,7 +2947,7 @@ Feladat mérete:
 
 --A Web szavak **milliárdjait** és sok milliárd lapot tartalmaz.
 
-**Gyakori tételcsoportok [előállítása]{.ul}**
+**Gyakori tételcsoportok előállítása**
 
 Adott d számú tétel-nél 2^d^ számú **jelölt** van tételcsoportra.
 
@@ -2985,7 +2987,7 @@ adatbázisban.
 A kibontás során **k** **egymásba ágyazott ciklust** használunk, hogy az
 összes **k** **elemű halmazt előállítsuk.**
 
-**Gyakori tételcsoportok [előállítása]{.ul}**
+**Gyakori tételcsoportok előállítása**
 
 **Csökkentsük** a **jelöltek számát**(*M*)
 
@@ -3065,10 +3067,10 @@ Alapötlet:
 -Ha k = 1 akkor vegyük a gyakori tételcsoportok összes párját
 
 > -Ha k \> 1 akkor **egyesítsük** tételcsoportok olyan párjait melyek
-> csak [**egy tételben** **különböznek**]{.ul}
+> csak **egy tételben** **különböznek**
 >
 > -Minden egyes generált tételcsoport **jelöltnél** győződjünk meg, hogy
-> az **összes k elemű [részhalmaza gyakori-e.]{.ul}**
+> az **összes k elemű részhalmaza gyakori-e.**
 
 **A C~k+1~-beli jelöltek generálása**
 
@@ -3148,19 +3150,19 @@ a tranzakció számmal.**
 szélességét(a tranzakcióbeli részhalmazok száma együtt nő a
 szélességével).
 
-**Gyakori tételcsoportok [kompakt reprezentációja]{.ul}**
+**Gyakori tételcsoportok kompakt reprezentációja**
 
 Egyes tételcsoportok **redundánsa**k mivel azonos a támogatottságuk
 egyes bővítéseikével.
 
 Kompakt reprezetációra van szükség!
 
-**[Maximális gyakori tételcsoport]{.ul}**
+**Maximális gyakori tételcsoport**
 
 Egy gyakori tételcsoport **maximális**, ha **közvetlen bővítéseinek**
 egyike **sem gyakori.**
 
-**[Zárt tételcsoport]{.ul}**
+**Zárt tételcsoport**
 
 Egy tételcsoport **zárt**, ha **közvetlen bővítéseinek** egyikével **sem
 egyezik meg a támogatottsága.**
@@ -3179,7 +3181,7 @@ Az adatbázis reprezentációja
 
 --Horizontális vagy vertikális elrendezés
 
-**[Társítási szabályok bányászata]{.ul}**
+**Társítási szabályok bányászata**
 
 Tranzakciók egy adott halmazában keressünk olyan **szabályokat**,
 amelyek egyes **tételek előfordulását előrejelzik** más tételek
@@ -3198,7 +3200,7 @@ előfordulása alapján.
 -Azon **tranzakciók aránya**, amelyek az **X és Y tételcsoportot**
 egyaránt **tartalmazzák.**
 
-[-- **Megbízhatóság (c)** (confidence)]{.ul}
+-- **Megbízhatóság (c)** (confidence)
 
 > -Azt méri, hogy az **Y-beli tételek** milyen **gyakran** jelennek meg
 > olyan tranzakciókban, melyek **tartalmazzák X-et.**
@@ -3265,7 +3267,7 @@ törlésére** vagy **sorba rendezésére.**
 A társítási szabályok bevezetésekor csak a támogatottság és
 megbízhatóság mértékeket alkalmazták.
 
-**[Érdekességi mértékek meghatározása]{.ul}**
+**Érdekességi mértékek meghatározása**
 
 Egy adott X Y szabály esetén az érdekességi mértékek meghatározásához
 szükséges információk egy **kontingencia táblából** kaphatóak.
@@ -3273,7 +3275,7 @@ szükséges információk egy **kontingencia táblából** kaphatóak.
 Számos mérőszám definiálására használható: támogatottság, megbízhatóság,
 lift, Gini, J-mérték stb.
 
-**[Statisztika alapú mérőszámok]{.ul}**
+**Statisztika alapú mérőszámok**
 
 Az alábbi mérőszámok figyelembe veszik a statisztikus **függetlenséget**
 
@@ -3294,7 +3296,7 @@ változatlan marad
 
 ## 9. Rendellenesség-keresés: definíció, feladatok, alkalmazások. Módszerek: grafikus, statisztikus, távolság alapú, modell alapú.
 
-**Mit értünk [rendellenes/kiugró adat]{.ul} alatt?**
+**Mit értünk rendellenes/kiugró adat alatt?**
 
 A rekordoknak egy olyan halmaza, amely **számottevően eltér a többi
 adattól.**
@@ -3315,7 +3317,7 @@ egy ***x*** tesztpont esetén számoljuk ki ***x* rendellenességi
 **Alkalmazások:** Hitelkártya csalások, telekommunikációs csalások,
 hálózati betörések, csalások keresése.
 
-**[Rendellenességek keresése]{.ul}**
+**Rendellenességek keresése**
 
 Kihívások
 
@@ -3332,7 +3334,7 @@ Munka hipotézis
 --Jóval több ,,normális" mint ,,abnormális" (kiugró/rendellenes)
 megfigyelés van az adatállományban.
 
-**Rendellenesség keresési [sémák]{.ul}**
+**Rendellenesség keresési sémák**
 
 Általános lépések
 
@@ -3346,7 +3348,7 @@ megfigyelés van az adatállományban.
 > -Azokat a megfigyeléseket nevezzük rendellenesnek, amelyek
 > **lényegesen eltérnek a normális profiltól.**
 
-**Rendellenesség keresési [sémák osztályozása]{.ul}**
+**Rendellenesség keresési sémák osztályozása**
 
 --Grafikus és statisztikus alapú
 
@@ -3385,7 +3387,7 @@ Alkalmazzunk **statisztikai próbákat**, melyek függnek
 
 --a **kiugró** értékek **várható számától** (konfidencia határ).
 
-**[Grubbs próba]{.ul}**
+**Grubbs próba**
 
 **Kiugró értékeket** keres **egydimenziós** adatokban. Felteszi az
 adatok **normális eloszlását.**
@@ -3400,7 +3402,7 @@ megvizsgálja az alábbi **hipotéziseket**
 Grubbs próba statisztika:
 $G = \frac{\max\left| X - \overline{X} \right|}{s}$
 
-**[Likelihood módszer]{.ul}**
+**Likelihood módszer**
 
 Tegyük fel, hogy a D adatállomány **két valségi eloszlás keverékéből**
 származó mintát tartalmaz:
@@ -3456,7 +3458,7 @@ Három fő megközelítés
 **\
 **
 
-**[Legközelebbi társ alapú megközelítés]{.ul}**
+**Legközelebbi társ alapú megközelítés**
 
 --Számoljuk ki az **összes pontpár** közötti **távolságot.**
 
@@ -3488,7 +3490,7 @@ tartalmazza a **rekordoknak.**
 --**Negatív ritkaság** a **vártnál kisebb számú pontot** jelez a
 kockában.
 
-**[Sűrűség alapú megközelítés: LOF]{.ul}**
+**Sűrűség alapú megközelítés: LOF**
 
 Számoljuk ki az összes **pont lokális környezetének sűrűségét.**
 
@@ -3498,7 +3500,7 @@ mint a **minta** és az ő **legközelebbi szomszédjai sűrűségének az
 
 **Kiugróak** a **legnagyobb LOF értékkel** rendelkező **pontok.**
 
-**[Klaszter alapú megközelítés]{.ul}**
+**Klaszter alapú megközelítés**
 
 **Klaszterosítsuk** az adatokat **különböző sűrűségű csoportokra.**
 
