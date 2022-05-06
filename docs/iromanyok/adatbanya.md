@@ -1,1 +1,0 @@
-# ide valamit alkotni kéne zhra

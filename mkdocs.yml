@@ -10,7 +10,8 @@ nav:
     - 'Irományok':
         - 'Hogyan fogyjunk le...': 'iromanyok/fastingforweightloss.md'
         - 'MSc Stuff': 'iromanyok/mscstuff.md'
-        - 'Adatbányászat': 'iromanyok/adatbanya.md'
+        - 'Adatbányászat Elmélet': 'iromanyok/adatbanya-elmelet.md'
+        - 'Adatbányászat Gyakorlat' : 'iromanyok/adatbanya-gyak.md'
 
 plugins:
   - search:
