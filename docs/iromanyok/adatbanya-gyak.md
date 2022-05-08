@@ -264,6 +264,17 @@ Dimenzió csökkentés - fő komponens analízis
     - V ✅
     - kivezetés végső outputra
 
+> Arra jó hogy megtudjuk a datasetből, hogyha valaki ezt meg azt a terméket veszi, mennyire valószínű hogy amazt a terméket is megveszi
+> 
+> appriroi output alján pl best rules
+> 
+> chicken=true ice_crea=true sardines=true 116 ==> coke=true 116 conf:(1)  ha csirkét ,meg iceteát meg szardíniát vesz, akkor tuti vesz kólát is
+> 
+> az fp growth után lévő create association rules outputjában a descriptionnél ugyan ilyen szabályok
+> 
+> pl: [chicken, ice_crea, sardines] --> [coke] (confidence: 1.000)
+
+
 ## Rendellenesség keresés
 
 - adatbázis-normalize-multipy
