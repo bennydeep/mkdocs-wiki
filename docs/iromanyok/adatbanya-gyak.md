@@ -231,7 +231,38 @@ Dimenzió csökkentés - fő komponens analízis
 
 ## Társítási szabályok
 
-WIP
+- adathalmaz
+- filter examples
+    - túl gyakori a heineken, ront az eredményen ezért kiszűrjük
+    - PRODUCT = heineken ; invert filter ✅
+- multily, az egyik már kiküldve végső outputra
+- subprocess (adatelőkészítés) az FP growth-hoz
+    - aggregate: PRODUCT concatenation
+        - group by CUSTOMER
+    - Rename concat(PRODUCT) -> Products ; additional CUSTOMER -> Customer
+    - set role Customer : id
+    - Multiply, 2 kivezetés outputra a subprocessből, az egyik bekötve végső outputra is
+- FP growth
+    - list item in column ; min support 0.1, min number of itemset 50
+- Create association rules ; input : FP growth fre (frequency) outputja
+    - alap beállítások, mindkét output kivezetve végső outputra
+- másik subprocess az apriorihoz
+    - generate attributes ; TIME -> TIME+1
+    - pivot 
+        - group by attributes CUSTOMER
+        - column grouping attribute PRODUCT
+        - aggregation attributes; TIME:sum
+    - rename by replacing sum\\(TIME\\)_ -> semmire
+    - replace missing values ; default: zero
+    - numeric to binomial; single: CUSTOMER ; inverted ✅
+    - set role CUSTOMER: id
+    - Multiply, 2 kivezetés outputra a subprocessből, az egyik bekötve végső outputra is
+- w-apriori
+    - N: 20.0
+    - M: 0.01
+    - I ✅
+    - V ✅
+    - kivezetés végső outputra
 
 ## Rendellenesség keresés
 
