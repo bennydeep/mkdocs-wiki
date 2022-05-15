@@ -23,7 +23,16 @@ Main headlines
 /*
 Tables
 */
+.md-typeset__scrollwrap{
+  background-color: rgba(255, 255, 255, 0.05) !important;
+}
+.md-typeset__table{
+  background-color: rgba(255, 255, 255, 0.05) !important;
+}
 tbody {
+  background-color: rgba(255, 255, 255, 0.05) !important;
+}
+table {
   background-color: rgba(255, 255, 255, 0.05) !important;
 }
 

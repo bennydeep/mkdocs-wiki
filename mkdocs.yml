@@ -12,6 +12,7 @@ nav:
         - 'MSc Stuff': 'iromanyok/mscstuff.md'
         - 'Adatbányászat Elmélet': 'iromanyok/adatbanya-elmelet.md'
         - 'Adatbányászat Gyakorlat' : 'iromanyok/adatbanya-gyak.md'
+        - 'Nemzetközi Menedzsment' : 'iromanyok/nemzetkozi-menedzsment.md'
 
 plugins:
   - search:
