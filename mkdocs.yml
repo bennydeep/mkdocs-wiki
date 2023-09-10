@@ -9,10 +9,11 @@ theme:
 nav:
     - 'Irományok':
         - 'Hogyan fogyjunk le...': 'iromanyok/fastingforweightloss.md'
-        - 'MSc Stuff': 'iromanyok/mscstuff.md'
-        - 'Adatbányászat Elmélet': 'iromanyok/adatbanya-elmelet.md'
-        - 'Adatbányászat Gyakorlat' : 'iromanyok/adatbanya-gyak.md'
-        - 'Nemzetközi Menedzsment' : 'iromanyok/nemzetkozi-menedzsment.md'
+    - 'MSc':
+        - 'MSc Stuff': 'msc/mscstuff.md'
+        - 'Adatbányászat Elmélet': 'msc/adatbanya-elmelet.md'
+        - 'Adatbányászat Gyakorlat' : 'msc/adatbanya-gyak.md'
+        - 'Nemzetközi Menedzsment' : 'msc/nemzetkozi-menedzsment.md'
 
 plugins:
   - search:
