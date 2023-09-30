@@ -1,19 +1,46 @@
 site_name: WorkInProgress
+repo_name: mkdocs-wiki
+repo_url: https://github.com/bennydeep/mkdocs-wiki
+site_author: Benjamin Komjathy
+site_description: >-
+  random wiki site, but still in progress
+copyright: Copyright &copy; 2021 - 2023 Benjamin Komjathy
 theme:
   name: 'material'
   custom_dir: 'theme'
   logo : 'image2vector.svg'
   palette:
-    primary: 'deep blue'
-    accent: 'light blue'
+    # # scheme: default
+
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+      primary: 'deep blue'
+      accent: 'light blue'
+    - media: "(prefers-color-scheme: light)"
+      scheme: default 
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+      primary: 'deep blue'
+      accent: 'light blue'
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+      primary: 'deep blue'
+      accent: 'light blue'
+
 nav:
     - 'Irományok':
         - 'Hogyan fogyjunk le...': 'iromanyok/fastingforweightloss.md'
-    - 'MSc':
-        - 'MSc Stuff': 'msc/mscstuff.md'
-        - 'Adatbányászat Elmélet': 'msc/adatbanya-elmelet.md'
-        - 'Adatbányászat Gyakorlat' : 'msc/adatbanya-gyak.md'
-        - 'Nemzetközi Menedzsment' : 'msc/nemzetkozi-menedzsment.md'
+    # - 'MSc':
+    #     - 'MSc Stuff': 'msc/mscstuff.md'
+    #     - 'Adatbányászat Elmélet': 'msc/adatbanya-elmelet.md'
+    #     - 'Adatbányászat Gyakorlat' : 'msc/adatbanya-gyak.md'
+    #     - 'Nemzetközi Menedzsment' : 'msc/nemzetkozi-menedzsment.md'
 
 plugins:
   - search:
@@ -21,17 +48,27 @@ plugins:
         - hu
         - en
 
-extra_css:
-  - stylesheets/dark_theme.css
-  - stylesheets/codehilite.css
+# extra_css:
+#   - stylesheets/dark_theme.css
+#   - stylesheets/codehilite.css
 
-extra_javascript:
-  - javascripts/mathjax.js
-  - https://polyfill.io/v3/polyfill.min.js?features=es6
-  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+# extra_javascript:
+#   - javascripts/mathjax.js
+#   - https://polyfill.io/v3/polyfill.min.js?features=es6
+#   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 extra:
   article_nav_top: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/bennydeep
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/benjaminkomjathy/
+    - icon: fontawesome/brands/readme
+      link: https://benjaminkomjathy.hu/
+  analytics:
+    provider: google
+    property: G-6WF0B8KW24
 markdown_extensions:
   - attr_list
   - pymdownx.arithmatex:
@@ -41,3 +78,4 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.tilde
+
