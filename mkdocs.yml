@@ -11,24 +11,17 @@ theme:
   logo : 'image2vector.svg'
   palette:
     # # scheme: default
-
-    - media: "(prefers-color-scheme)"
-      toggle:
-        icon: material/brightness-auto
-        name: Switch to dark mode
-      primary: 'deep blue'
-      accent: 'light blue'
     - media: "(prefers-color-scheme: light)"
-      scheme: default 
+      scheme: default
       toggle:
-        icon: material/brightness-7
-        name: Switch to system preference
+        icon: material/brightness-4
+        name: Switch to dark mode
       primary: 'deep blue'
       accent: 'light blue'
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       toggle:
-        icon: material/brightness-4
+        icon: material/brightness-7
         name: Switch to light mode
       primary: 'deep blue'
       accent: 'light blue'
@@ -64,7 +57,7 @@ extra:
       link: https://github.com/bennydeep
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/benjaminkomjathy/
-    - icon: fontawesome/brands/readme
+    - icon: material/account-circle
       link: https://benjaminkomjathy.hu/
   analytics:
     provider: google
