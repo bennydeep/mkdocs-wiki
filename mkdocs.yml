@@ -1,10 +1,11 @@
 site_name: WorkInProgress
+site_url: https://mkdocs.benjaminkomjathy.hu/
 repo_name: mkdocs-wiki
 repo_url: https://github.com/bennydeep/mkdocs-wiki
 site_author: Benjamin Komjathy
 site_description: >-
   random wiki site, but still in progress
-copyright: Copyright &copy; 2021 - 2023 Benjamin Komjathy
+copyright: Copyright &copy; 2021 - 2024 Benjamin Komjathy
 theme:
   name: 'material'
   custom_dir: 'theme'
@@ -27,13 +28,14 @@ theme:
       accent: 'light blue'
 
 nav:
+    - index.md
     - 'Irományok':
         - 'Hogyan fogyjunk le...': 'iromanyok/fastingforweightloss.md'
-    # - 'MSc':
-    #     - 'MSc Stuff': 'msc/mscstuff.md'
-    #     - 'Adatbányászat Elmélet': 'msc/adatbanya-elmelet.md'
-    #     - 'Adatbányászat Gyakorlat' : 'msc/adatbanya-gyak.md'
-    #     - 'Nemzetközi Menedzsment' : 'msc/nemzetkozi-menedzsment.md'
+        - 'Befektetés alapok': 'iromanyok/investing101.md'
+    - 'MSc':
+        - 'Adatbányászat Elmélet': 'msc/adatbanya-elmelet.md'
+        - 'Adatbányászat Gyakorlat' : 'msc/adatbanya-gyak.md'
+        - 'Nemzetközi Menedzsment' : 'msc/nemzetkozi-menedzsment.md'
 
 plugins:
   - search:
