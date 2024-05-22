@@ -32,6 +32,8 @@ nav:
     - 'Irományok':
         - 'Hogyan fogyjunk le...': 'iromanyok/fastingforweightloss.md'
         - 'Befektetés alapok': 'iromanyok/investing101.md'
+        - 'CanSerious': 'iromanyok/canserious.md'
+
     - 'MSc':
         - 'Adatbányászat Elmélet': 'msc/adatbanya-elmelet.md'
         - 'Adatbányászat Gyakorlat' : 'msc/adatbanya-gyak.md'
