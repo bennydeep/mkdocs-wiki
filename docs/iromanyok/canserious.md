@@ -58,3 +58,7 @@ Hazaengedtek, megvolt az első opdivo kezelés is. Ez lassú gyógyszer, azt mon
 
 Rá egy hétre (május 9), az eddig problémamentes jobb lábam is elkezdett gyengülni. olyan hirtelen, hogy 3-4 nap alatt eljutottam olyan szintre, hogy lábra se tudtam állni. Na hát akkor megint sürgősségi. Már a vizelet is elakadt megint akkorra. Sürgősségin megint MR, na mégtovább terjedt a retek, az L3-as csigolyánál is nyomja az ideget, azért a lábbénulás. Bent is tartottak osztályon, és akkor most megy újra a sugárkezelés, kicsit lejjebb és várjuk a csodát. Addig az immunterápia is szünetel.. De ha debrecenben jobban odafigyeltek volna az idegsebészre, lehet nem jutunk el idáig
 
+### 06.24
+
+6 Hete már csak ágyban fekvés, a sugár úgy néz ki azon kívül hogy legalább a lokális terjedést megállította, nem igazán hatott.. azóta volt már egy immunterápia is, reméljük ha végtelenül lassan is, de legalább el kezd hatni egyszer.. Fentanyl tapasz is on, máshogy nem igazán elviselhető a fájdalom
+
