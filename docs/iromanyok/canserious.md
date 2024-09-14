@@ -60,11 +60,11 @@ Rá egy hétre (május 9), az eddig problémamentes jobb lábam is elkezdett gye
 
 ### 06.24
 
-6 Hete már csak ágyban fekvés, a sugár úgy néz ki azon kívül hogy legalább a lokális terjedést megállította, nem igazán hatott.. azóta volt már egy immunterápia is, reméljük ha végtelenül lassan is, de legalább el kezd hatni egyszer.. Fentanyl tapasz is on, máshogy nem igazán elviselhető a fájdalom
+6 Hete már csak ágyban fekvés, a sugár úgy néz ki azon kívül hogy legalább a lokális terjedést megállította, nem igazán hatott.. azóta volt már egy immunterápia is, reméljük ha végtelenül lassan is, de legalább el kezd hatni egyszer.. Fentanyl tapasz is on, máshogy nem igazán elviselhető a fájdalom. Még a fejemen is előjött valami kinövés, ami szintén valószinüsíthetően áttét, bőrgyógyászaton leszedették volna, de onkológus azt mondta, hogy várjunk vele hogy alakul, így legalább "kívülről" is tudjuk követni halad e valamerre a dolog.
 
 ### 09.14
 
-Azóta két hetente volt immunterápia, oda persze betegszállítóval fekve, privátban, jó drágán, mert a TB általi betegszállítás úgy nézne ki, hogy reggel felvesznek aztán egyszer majd csak eljutnak velem a kezelésre, de ez ilyen állapotban nem igazán tolerálható, azok a napok melóból is kiesnének így. Így meg tök rendesek, akkor jönnek amikor kell, akkorra visznek át debibe amikor kell, megkapom szépen a kis infúziót, majd haza. Még ígyis megterhelő, de azért kényelmesebb, és melóból is csak pótolható pár óra esik ki.
+Még mindig 100% ágyhoz kötve. Azóta két hetente volt immunterápia, oda persze betegszállítóval fekve, privátban, jó drágán, mert a TB általi betegszállítás úgy nézne ki, hogy reggel felvesznek aztán egyszer majd csak eljutnak velem a kezelésre, de ez ilyen állapotban nem igazán tolerálható, azok a napok melóból is kiesnének így. Így meg tök rendesek a szállítók, akkor jönnek amikor kell, akkorra visznek át debibe amikor kell, megkapom szépen a kis infúziót, majd haza. Még ígyis megterhelő, de azért kényelmesebb, és melóból is csak pótolható pár óra esik ki.
 
 Mind a két láb teljesen megadta magát, katéter, pelenka, mert az ezért felelős idegek is, szóval 28 évesen teljesen magatehetetlenül, ápolásra szorulva, mint egy 82 éves.
 
@@ -72,5 +72,5 @@ Közben júliusban volt 4 nap kis belgyógyászati kiruccanás is, ott ultrahang
 
 A fájdalom érzet is egyre rosszabb, a 75-ös fentanyl tapasz is kezd kevésnek bizonyulni, de több opioidot meg nem tolerál a szervezetem, mert ígyis ettől is hányni szoktam reggelente.
 
-Most volt a negyedéves kontroll CT is, hogy akkor nézzük, hogy hatott-e valamit az immunterápia. Sajnos nem. Ahol eddig is volt, pl gerinc, máj, ott tovább nőtt, és terjedt is tovább, bordán patológiás törés, medence is kóros szerkezetű, megnagyobbodott kóros nyirokcsomók mindenfelé, a maradék 1 vesén is valószinüsíthető áttét, szóval már most nagyon rossz a helyet, és kezdődik előről, hogy akkor új gyógyszer kiválasztása, onkoteam, NEAK engedélyeztetés/időhúzás, aztán majd egyszer hátha elkezhetem az új gyógyszert. Az most valószínűleg a cabozantinib lesz, ami szintén egy tirozin kináz gátló, csak nem értem, hogyha egyszer már a szunitinib nem volt elég hatékony, akkor miért pont ez lesz majd az. Na de reméljük.
+Most volt a negyedéves kontroll CT is, hogy akkor nézzük, hogy hatott-e valamit az immunterápia. Sajnos nem. Ahol eddig is volt, pl gerinc, máj, a fejen az a bizbasz, ott tovább nőtt, és terjedt is tovább, bordán patológiás törés, medence is kóros szerkezetű, megnagyobbodott kóros nyirokcsomók mindenfelé, a maradék 1 vesén is valószinüsíthető áttét, szóval már most nagyon rossz a helyet, és kezdődik előről, hogy akkor új gyógyszer kiválasztása, onkoteam, NEAK engedélyeztetés/időhúzás, aztán majd egyszer hátha elkezhetem az új gyógyszert. Az most valószínűleg a cabozantinib lesz, ami szintén egy tirozin kináz gátló, csak nem értem, hogyha egyszer már a szunitinib nem volt elég hatékony, akkor miért pont ez lesz majd az. Na de reméljük.
 
