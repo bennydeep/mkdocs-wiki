@@ -79,3 +79,7 @@ A fájdalom érzet is egyre rosszabb, a 75-ös fentanyl tapasz is kezd kevésnek
 
 Most volt a negyedéves kontroll CT is, hogy akkor nézzük, hogy hatott-e valamit az immunterápia. Sajnos nem. Ahol eddig is volt, pl gerinc, máj, a fejen az a bizbasz, ott tovább nőtt, és terjedt is tovább, bordán patológiás törés, medence is kóros szerkezetű, megnagyobbodott kóros nyirokcsomók mindenfelé, a maradék 1 vesén is valószinüsíthető áttét, szóval már most nagyon rossz a helyet, és kezdődik előről, hogy akkor új gyógyszer kiválasztása, onkoteam, NEAK engedélyeztetés/időhúzás, aztán majd egyszer hátha elkezhetem az új gyógyszert. Az most valószínűleg a cabozantinib lesz, ami szintén egy tirozin kináz gátló, csak nem értem, hogyha egyszer már a szunitinib nem volt elég hatékony, akkor miért pont ez lesz majd az. Na de reméljük.
 
+
+### 11.16
+
+Az új kiválasztott gyógyszer a cabometyx, első doboz a támogatásért kisebb dózissal (40 mg) az onko dokitól, ez mondjuk rendes volt tőle, onnantól már támogatja állambácsi (60mg). A legelején nagyon hatékonynak bizonyult, a fejen meg a májon a nagy áttéteket gyorsan elkezdte lecsökkenteni, szóval azért a közérzet javult, tudok jobban enni, stb. Azóta kicsit úgy érzem hogy stagnál a dolog, de a helyzethez képpest már sokat segített. A mellékhatások is eléggé tolerálhatóak. Csak tudnám, hogy miért nem ezzel a gyógyszerrel kezdtünk már tavaly nyáron.. Meg kellett várni amíg lebénulok. Az a baj, hogy a gerinccsatornában az ideg még mindig el van nyomódva, így a bénulás nem javult egyelőre, szóval még mindig csak ágyban fekvés.

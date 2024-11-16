@@ -1,10 +1,10 @@
-site_name: WorkInProgress
+site_name: Benny Blogol
 site_url: https://mkdocs.benjaminkomjathy.hu/
 repo_name: mkdocs-wiki
 repo_url: https://github.com/bennydeep/mkdocs-wiki
 site_author: Benjamin Komjathy
 site_description: >-
-  random wiki site, but still in progress
+  csak kiírom valahova a gondolataimat a zinternetre
 copyright: Copyright &copy; 2021 - 2024 Benjamin Komjathy
 theme:
   name: 'material'
@@ -33,6 +33,7 @@ nav:
         - 'Hogyan fogyjunk le...': 'iromanyok/fastingforweightloss.md'
         - 'Befektetés alapok': 'iromanyok/investing101.md'
         - 'CanSerious': 'iromanyok/canserious.md'
+        - 'Tanítás és tanácsadás': 'iromanyok/teaching-n-consultancy.md'
 
     - 'MSc':
         - 'Adatbányászat Elmélet': 'msc/adatbanya-elmelet.md'
