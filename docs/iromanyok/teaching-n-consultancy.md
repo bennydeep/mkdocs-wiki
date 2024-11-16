@@ -14,4 +14,4 @@ Gazdinfó MSc-t végeztem, először egy kis startupnál voltam DevOps mérnök,
 
 Ha nem DevOps és IT akár befektetések, vagy egészséges életmód tematikában is kereshetsz nyugodtan.
 
-[Foglalj időpontot!](https://cal.com/benjamin.komjathy/session)
+[Foglalj időpontot!](https://cal.com/benjamin.komjathy/session){target=_blank}

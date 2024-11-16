@@ -112,4 +112,4 @@ ha már ezt olvasgatod, biztos elég rosszul van tanítva szegény.
 plusz sétát én még akkor is tartanám, ha már teljesen jól érzed magad a
 bőrödben, és egészséges vagy. A fogyás mellé én biztos beépítenék valami
 edzést is, mivel az izmok megtartása is fontos, de azt már sok lenne még ide leírkálni, kiindulási alapnak ez elég lesz.
-[Streetworkout mindenkinek](https://gymnasticsmethod.hu/termek/gymnasticsmethod-hu-termek-street-workout-mindenkinek-ebook/ "Click to open"){target=_blank}
+[Streetworkout mindenkinek](https://jaffa.hu/street-workout-mindenkinek-atdolgozott-bovitett-kiadas-2480"Click to open"){target=_blank}
