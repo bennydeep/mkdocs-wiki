@@ -83,3 +83,30 @@ Most volt a negyedéves kontroll CT is, hogy akkor nézzük, hogy hatott-e valam
 ### 11.16
 
 Az új kiválasztott gyógyszer a cabometyx, első doboz a támogatásért kisebb dózissal (40 mg) az onko dokitól, ez mondjuk rendes volt tőle, onnantól már támogatja állambácsi (60mg). A legelején nagyon hatékonynak bizonyult, a fejen meg a májon a nagy áttéteket gyorsan elkezdte lecsökkenteni, szóval azért a közérzet javult, tudok jobban enni, stb. Azóta kicsit úgy érzem hogy stagnál a dolog, de a helyzethez képpest már sokat segített. A mellékhatások is eléggé tolerálhatóak. Csak tudnám, hogy miért nem ezzel a gyógyszerrel kezdtünk már tavaly nyáron.. Meg kellett várni amíg lebénulok. Az a baj, hogy a gerinccsatornában az ideg még mindig el van nyomódva, így a bénulás nem javult egyelőre, szóval még mindig csak ágyban fekvés.
+
+## 2025
+
+### 02.06
+
+Olyan túl sok újdonság nem nagyon történt. Még mindig Cabo, de a kezdeti "sikerek" óta továbbra is stagnálás. Jól kiőszültem, vagyis inkább ilyen szőke, szürke, fehér szerű, amilyet festeni se igazán lehetne. Frontérzékenység, tapasz miatt néha túl-éberen töltött éjszakák, hajnali vérvételek, hányás. Annyi pozitív, hogy legalább a NEAK-nál megadták mostmár úgy az engedélyt, hogy ne kelljen 3 havonta újra engedélyeztetni, szóval mintha ez is tipikus világossejtes vesedaganat lenne, úgy "kezelik". Combtőben/szeméremcsont környékén is van ilyen random nyillalgatás, meg ilyen random fantom mozgásokat csinál a láb, de amúgy akaratlagosan semmi mozgás. 
+
+### 03.23
+
+Teljesen lemerülve érzem magam. Fizikálisan, mentálisan, lelkileg mindenhogy.. Alvás igény is ilyen 10+ óra, életkedv semmi, főleg a 72 órás tapasz utolsó 12 órájában, de ott már inkább az elvonási tünetek, több fájdalom miatt is.
+
+### 04.09
+
+A korábbi műtéti hegnél megint alakulgat kifelé ez a sipoly jellegű dolog mint tavaly szintén ilyenkor körül.. csodálatos. Voltunk egy másik idegsebésznél. Ez a doki legalabb kicsit jobban áll hozza, ha már úgyis hozzá kell nyúlni a sipoly miatt, akkor legalább kért ct-t, mr-t, hogy mi van esetleg ha mást is tud csinálni. Persze ez az alap betegség miatt nem olyan egyszerű. Kicsit vicces, hogy a "sürgős" ct/mr még onkológiában is 2 hét.
+
+
+### 04.20
+
+Csontszerkezet is tovább gyengült, szóval így a beépített csavaroknak sincs olyan túl sok értelmük, na nem mintha amúgy nem mindig csak feküdnék.. Másik idegsebész említett esetleg valami csontcementet, de a mozgásra ő is azt mondta, hogy abban nem tud segíteni, hogy a daganat ott az L1 és L3 csigolyánál is ennyire ott van a gerinccsatornában.
+
+### 05.21
+
+Szokásos időhúzások után kiderült, hogy na akkor végül nyiregyen műtenek megint, és csak a sipolyt fixálják, mert mást úgyse nagyon tudnak csinálni. 
+
+Befektettek osztályra, osztályvezető előzetesben azt ígérte, hogy megpróbál elszeparálni a súlyozottan hátrányos helyzetem miatt, na hát ez sem igazán sikerült, hat fős kórterem. Muszáj voltam átkérezni magam a VIP-be, ott meg 40K egy éjszaka, fincsi. 
+
+Tervezett műtét miatt a kemo gyógyszert is ideiglenesen szüneteltetni kell, szóval kitudja a rákkal is mi lesz addig.. főleg így, hogy friss CT-n az látszott, hogy így a cabo ellenére is nőtt kicsit. És ez már a harmad vonal.. szóval ezzel kapcsolatban sem tudom, hogy mi lesz. Orvostudomány szét teszi a kezét és see ya next time. 
