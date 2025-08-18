@@ -2,6 +2,10 @@
 
 Szertetném kipróbálni magam tanítás/tanácsadás vonalon is.
 
+[https://oktatas.benjaminkomjathy.hu/](https://oktatas.benjaminkomjathy.hu/){target=_blank}
+
+[For english site](https://lessons.bk0.eu/){target=_blank}
+
 ## Scope
 
 Akár IT-n belül pályaválasztáson gondolkodsz, akár ha fejlesztő vagy, de elvárják tőled hogy naprakész legyél a DevOps tool-okkal is, vagy még az egyetemi éveid alatt nem sikerült rájönnöd, hogy az IT-n belül melyik terület is érdekel, vagy csak szeretsz hackelgetni gyere beszéljünk róla.
