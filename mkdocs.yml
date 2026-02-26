@@ -32,6 +32,8 @@ nav:
     - 'Irományok':
         - 'Hogyan fogyjunk le...': 'iromanyok/fastingforweightloss.md'
         - 'Befektetés alapok': 'iromanyok/investing101.md'
+        - 'Szakdolgozat': 'iromanyok/szakdolgozat.md'
+        - 'Diplomamunka': 'iromanyok/diplomamunka.md'
         # - 'CanSerious': 'iromanyok/canserious.md'
         - 'Tanítás és tanácsadás': 'iromanyok/teaching-n-consultancy.md'
 
