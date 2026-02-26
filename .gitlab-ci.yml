@@ -13,6 +13,7 @@ firebase_deploy:
     - pip3 install --no-cache --upgrade pip setuptools
     - pip3 install mkdocs
     - pip install mkdocs-material
+    - pip install mkdocs-pdf
   script:
     - mkdocs build
     - echo ${FIREBASE_SA_KEY} > secret.json

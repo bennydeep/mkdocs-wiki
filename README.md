@@ -1,6 +1,6 @@
-# MKDOCS-WIKI
+# Beni's blog
 
-Source code for [https://mkdocs.benjaminkomjathy.hu/](https://mkdocs.benjaminkomjathy.hu/)
+Source code for [https://blog.benjaminkomjathy.hu/](https://blog.benjaminkomjathy.hu/)
 
 
 
