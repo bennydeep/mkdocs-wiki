@@ -1,6 +1,6 @@
-# Tanítás és tanácsadás
+# Legyél te is DevOps Engineer Benivel
 
-Szertetném kipróbálni magam tanítás/tanácsadás vonalon is.
+Szertetném kipróbálni magam oktatás vonalon is, szóval keress nyugodtan
 
 [https://oktatas.benjaminkomjathy.hu/](https://oktatas.benjaminkomjathy.hu/){target=_blank}
 

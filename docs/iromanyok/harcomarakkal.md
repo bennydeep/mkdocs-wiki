@@ -1,4 +1,4 @@
-# I will survive!
+# Harcom a rákkal
 
 
 ## 2015
@@ -126,4 +126,4 @@ Szept. sebészeten se tudtak segíteni, pedig próbálkoztak minden félével, �
 ## 2026
 ### 02.06
 
-Még mindig életben
+Még mindig életben, úgy általánosan talán jobban. Mintha kevesebb mellékhatást okozna a mostani gyógyszer. Jobb az étvágyam, nincs annyira nagy alvásigényem, közérzetem is kicsit jobb

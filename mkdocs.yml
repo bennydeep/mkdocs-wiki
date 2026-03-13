@@ -34,8 +34,9 @@ nav:
         - 'Befektetés alapok': 'iromanyok/investing101.md'
         - 'Szakdolgozat': 'iromanyok/szakdolgozat.md'
         - 'Diplomamunka': 'iromanyok/diplomamunka.md'
-        - 'Survivor': 'iromanyok/survivor.md'
-        - 'Tanítás és tanácsadás': 'iromanyok/teaching-n-consultancy.md'
+        - 'Harcom a rákkal': 'iromanyok/harcomarakkal.md'
+        - 'DevOps oktatás': 'iromanyok/oktatas.md'
+        - 'DevOps tanácsadás': 'iromanyok/tanacsadas.md'
 
     - 'MSc':
         - 'Adatbányászat Elmélet': 'msc/adatbanya-elmelet.md'
